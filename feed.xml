@@ -3,7 +3,7 @@
     <title>EV NEWS</title>
     <link href="https://evnews.co.za/feed.xml" rel="self" />
     <link href="https://evnews.co.za" />
-    <updated>2026-04-04T13:50:05+02:00</updated>
+    <updated>2026-04-04T22:07:13+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://evnews.co.za/electric-mobility-a-shield-against-global-volatility/"/>
         <id>https://evnews.co.za/electric-mobility-a-shield-against-global-volatility/</id>
         <media:content url="https://evnews.co.za/media/posts/10/Electric-Mobility.webp" medium="image" />
+            <category term="Opinion"/>
 
         <updated>2026-04-03T12:45:36+02:00</updated>
             <summary type="html">
@@ -35,6 +36,7 @@
         <link href="https://evnews.co.za/the-case-for-evs-runs-deeper-than-fuel-price/"/>
         <id>https://evnews.co.za/the-case-for-evs-runs-deeper-than-fuel-price/</id>
         <media:content url="https://evnews.co.za/media/posts/9/VolvoMDGrantLocke.webp" medium="image" />
+            <category term="Opinion"/>
 
         <updated>2026-03-31T15:46:44+02:00</updated>
             <summary type="html">
@@ -53,6 +55,12 @@
         <link href="https://evnews.co.za/sas-automotive-future-hinges-on-local-battery-manufacturing/"/>
         <id>https://evnews.co.za/sas-automotive-future-hinges-on-local-battery-manufacturing/</id>
         <media:content url="https://evnews.co.za/media/posts/8/FordPHEVBatteryAssemblyPlant.webp" medium="image" />
+            <category term="report"/>
+            <category term="minerals"/>
+            <category term="battery"/>
+            <category term="World Bank"/>
+            <category term="US Inflation Reduction Act"/>
+            <category term="Manufacturing"/>
 
         <updated>2026-03-31T14:47:37+02:00</updated>
             <summary type="html">
@@ -71,6 +79,7 @@
         <link href="https://evnews.co.za/why-sa-imports-battery-cells/"/>
         <id>https://evnews.co.za/why-sa-imports-battery-cells/</id>
         <media:content url="https://evnews.co.za/media/posts/7/VinFast_VF_8_Li-ion_battery_pack_05.webp" medium="image" />
+            <category term="minerals"/>
 
         <updated>2026-03-31T14:09:18+02:00</updated>
             <summary type="html">
@@ -89,6 +98,8 @@
         <link href="https://evnews.co.za/off-grid-ambition-meets-the-reality-of-fleet-electrification/"/>
         <id>https://evnews.co.za/off-grid-ambition-meets-the-reality-of-fleet-electrification/</id>
         <media:content url="https://evnews.co.za/media/posts/6/Volvo-Trucks-BEV-Vector-Logistics-2.webp" medium="image" />
+            <category term="fleet electrification"/>
+            <category term="N3"/>
 
         <updated>2026-03-31T11:09:32+02:00</updated>
             <summary type="html">
@@ -107,6 +118,8 @@
         <link href="https://evnews.co.za/petrol-diesel-or-phev-which-makes-financial-sense/"/>
         <id>https://evnews.co.za/petrol-diesel-or-phev-which-makes-financial-sense/</id>
         <media:content url="https://evnews.co.za/media/posts/5/JAECOO-J7-SHS-Credit-OMODA-JAECOO-South-Africa.webp" medium="image" />
+            <category term="running costs"/>
+            <category term="JAECOO J7 SHS"/>
 
         <updated>2026-03-31T08:06:03+02:00</updated>
             <summary type="html">
@@ -125,6 +138,10 @@
         <link href="https://evnews.co.za/cnbm-and-geely-sa-drive-clean-energy-forward/"/>
         <id>https://evnews.co.za/cnbm-and-geely-sa-drive-clean-energy-forward/</id>
         <media:content url="https://evnews.co.za/media/posts/4/Geely-.webp" medium="image" />
+            <category term="vehicle-to-grid"/>
+            <category term="news"/>
+            <category term="events"/>
+            <category term="Geely"/>
 
         <updated>2026-03-29T12:37:58+02:00</updated>
             <summary type="html">
@@ -143,6 +160,7 @@
         <link href="https://evnews.co.za/why-evs-are-expensive-in-south-africa/"/>
         <id>https://evnews.co.za/why-evs-are-expensive-in-south-africa/</id>
         <media:content url="https://evnews.co.za/media/posts/2/BYD-Dolphin-Surf.webp" medium="image" />
+            <category term="finance"/>
 
         <updated>2026-03-24T20:55:33+02:00</updated>
             <summary type="html">
@@ -161,6 +179,8 @@
         <link href="https://evnews.co.za/chery-outlines-nev-strategy/"/>
         <id>https://evnews.co.za/chery-outlines-nev-strategy/</id>
         <media:content url="https://evnews.co.za/media/posts/3/Tony-Liu-CEO-Chery-Group-SA.webp" medium="image" />
+            <category term="events"/>
+            <category term="Chery"/>
 
         <updated>2026-03-21T16:56:25+02:00</updated>
             <summary type="html">
