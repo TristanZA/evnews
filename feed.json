@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "EV NEWS",
     "description": "",
-    "home_page_url": "https://tristanza.github.io/evnews",
-    "feed_url": "https://tristanza.github.io/evnews/feed.json",
+    "home_page_url": "https://evnews.co.za",
+    "feed_url": "https://evnews.co.za/feed.json",
     "user_comment": "",
     "author": {
         "name": "Tristan Wiggill"
     },
     "items": [
         {
-            "id": "https://tristanza.github.io/evnews/electric-mobility-a-shield-against-global-volatility/",
-            "url": "https://tristanza.github.io/evnews/electric-mobility-a-shield-against-global-volatility/",
+            "id": "https://evnews.co.za/electric-mobility-a-shield-against-global-volatility/",
+            "url": "https://evnews.co.za/electric-mobility-a-shield-against-global-volatility/",
             "title": "Electric Mobility A Shield Against Global Volatility",
             "summary": "In the 1970s South Africans faced strict fuel rationing, 80km/h speed limits, and dry weekends where not a drop of petrol could be bought. Conflict in the Middle-East back then was a stark lesson in&hellip;",
-            "image": "https://tristanza.github.io/evnews/media/posts/10/Electric-Mobility.webp",
+            "image": "https://evnews.co.za/media/posts/10/Electric-Mobility.webp",
             "author": {
                 "name": "Tristan Wiggill"
             },
@@ -24,11 +24,11 @@
             "date_modified": "2026-04-04T13:42:28+02:00"
         },
         {
-            "id": "https://tristanza.github.io/evnews/the-case-for-evs-runs-deeper-than-fuel-price/",
-            "url": "https://tristanza.github.io/evnews/the-case-for-evs-runs-deeper-than-fuel-price/",
+            "id": "https://evnews.co.za/the-case-for-evs-runs-deeper-than-fuel-price/",
+            "url": "https://evnews.co.za/the-case-for-evs-runs-deeper-than-fuel-price/",
             "title": "The case for EVs runs deeper than fuel price",
             "summary": "Every time fuel prices rise, the conversation around electric vehicles picks up. Search trends spike, showroom enquiries increase, and suddenly everyone has an opinion on whether now is the right time to make the switch.",
-            "image": "https://tristanza.github.io/evnews/media/posts/9/VolvoMDGrantLocke.webp",
+            "image": "https://evnews.co.za/media/posts/9/VolvoMDGrantLocke.webp",
             "author": {
                 "name": "Tristan Wiggill"
             },
@@ -38,11 +38,11 @@
             "date_modified": "2026-04-04T13:42:57+02:00"
         },
         {
-            "id": "https://tristanza.github.io/evnews/sas-automotive-future-hinges-on-local-battery-manufacturing/",
-            "url": "https://tristanza.github.io/evnews/sas-automotive-future-hinges-on-local-battery-manufacturing/",
+            "id": "https://evnews.co.za/sas-automotive-future-hinges-on-local-battery-manufacturing/",
+            "url": "https://evnews.co.za/sas-automotive-future-hinges-on-local-battery-manufacturing/",
             "title": "SA’s Automotive Future Hinges on Local Battery Manufacturing",
             "summary": "A new World Bank report suggests that battery manufacturing and local beneficiation of battery minerals will determine whether South Africa can preserve its automotive base and build new industrial capability. The country’s vehicle production for&hellip;",
-            "image": "https://tristanza.github.io/evnews/media/posts/8/FordPHEVBatteryAssemblyPlant.webp",
+            "image": "https://evnews.co.za/media/posts/8/FordPHEVBatteryAssemblyPlant.webp",
             "author": {
                 "name": "Tristan Wiggill"
             },
@@ -52,11 +52,11 @@
             "date_modified": "2026-04-04T13:44:08+02:00"
         },
         {
-            "id": "https://tristanza.github.io/evnews/why-sa-imports-battery-cells/",
-            "url": "https://tristanza.github.io/evnews/why-sa-imports-battery-cells/",
+            "id": "https://evnews.co.za/why-sa-imports-battery-cells/",
+            "url": "https://evnews.co.za/why-sa-imports-battery-cells/",
             "title": "Why SA Imports Battery Cells",
             "summary": "South Africa is the world's number one producer of manganese, outputting around 7.4 million tonnes in 2024. This is roughly the same amount as Gabon and Australia combined. The country also holds significant vanadium reserves, with&hellip;",
-            "image": "https://tristanza.github.io/evnews/media/posts/7/VinFast_VF_8_Li-ion_battery_pack_05.webp",
+            "image": "https://evnews.co.za/media/posts/7/VinFast_VF_8_Li-ion_battery_pack_05.webp",
             "author": {
                 "name": "Tristan Wiggill"
             },
@@ -66,11 +66,11 @@
             "date_modified": "2026-04-04T13:45:25+02:00"
         },
         {
-            "id": "https://tristanza.github.io/evnews/off-grid-ambition-meets-the-reality-of-fleet-electrification/",
-            "url": "https://tristanza.github.io/evnews/off-grid-ambition-meets-the-reality-of-fleet-electrification/",
+            "id": "https://evnews.co.za/off-grid-ambition-meets-the-reality-of-fleet-electrification/",
+            "url": "https://evnews.co.za/off-grid-ambition-meets-the-reality-of-fleet-electrification/",
             "title": "Off-Grid Ambition Meets the Reality of Fleet Electrification",
             "summary": "South Africa's fleet electrification conversation has, for several years, been dominated by questions about vehicle availability and purchase cost. Less examined is the infrastructure problem sitting underneath both of those concerns. Even if fleet operators&hellip;",
-            "image": "https://tristanza.github.io/evnews/media/posts/6/Volvo-Trucks-BEV-Vector-Logistics-2.webp",
+            "image": "https://evnews.co.za/media/posts/6/Volvo-Trucks-BEV-Vector-Logistics-2.webp",
             "author": {
                 "name": "Tristan Wiggill"
             },
@@ -80,11 +80,11 @@
             "date_modified": "2026-04-04T13:46:00+02:00"
         },
         {
-            "id": "https://tristanza.github.io/evnews/petrol-diesel-or-phev-which-makes-financial-sense/",
-            "url": "https://tristanza.github.io/evnews/petrol-diesel-or-phev-which-makes-financial-sense/",
+            "id": "https://evnews.co.za/petrol-diesel-or-phev-which-makes-financial-sense/",
+            "url": "https://evnews.co.za/petrol-diesel-or-phev-which-makes-financial-sense/",
             "title": "Petrol, diesel or PHEV: which makes financial sense?",
             "summary": "Global oil markets have been unsettled by ongoing tensions between Iran and the United States, and the effects are reaching South African forecourts. The threat to supply routes through the Strait of Hormuz has kept&hellip;",
-            "image": "https://tristanza.github.io/evnews/media/posts/5/JAECOO-J7-SHS-Credit-OMODA-JAECOO-South-Africa.webp",
+            "image": "https://evnews.co.za/media/posts/5/JAECOO-J7-SHS-Credit-OMODA-JAECOO-South-Africa.webp",
             "author": {
                 "name": "Tristan Wiggill"
             },
@@ -94,11 +94,11 @@
             "date_modified": "2026-04-04T13:47:57+02:00"
         },
         {
-            "id": "https://tristanza.github.io/evnews/cnbm-and-geely-sa-drive-clean-energy-forward/",
-            "url": "https://tristanza.github.io/evnews/cnbm-and-geely-sa-drive-clean-energy-forward/",
+            "id": "https://evnews.co.za/cnbm-and-geely-sa-drive-clean-energy-forward/",
+            "url": "https://evnews.co.za/cnbm-and-geely-sa-drive-clean-energy-forward/",
             "title": "CNBM and Geely SA Drive Clean Energy Forward",
             "summary": "China National Building Materials (CNBM) South Africa and Geely Auto South Africa have signed a Strategic Cooperation Framework Agreement to work together on clean energy and electric mobility projects across South Africa and the wider&hellip;",
-            "image": "https://tristanza.github.io/evnews/media/posts/4/Geely-.webp",
+            "image": "https://evnews.co.za/media/posts/4/Geely-.webp",
             "author": {
                 "name": "Tristan Wiggill"
             },
@@ -108,11 +108,11 @@
             "date_modified": "2026-04-04T13:48:16+02:00"
         },
         {
-            "id": "https://tristanza.github.io/evnews/why-evs-are-expensive-in-south-africa/",
-            "url": "https://tristanza.github.io/evnews/why-evs-are-expensive-in-south-africa/",
+            "id": "https://evnews.co.za/why-evs-are-expensive-in-south-africa/",
+            "url": "https://evnews.co.za/why-evs-are-expensive-in-south-africa/",
             "title": "Why EVs Are Expensive in South Africa",
             "summary": "You've probably looked at an electric vehicle (EV) price tag and thought: how is this thing worth that much? Especially when you know that charging one costs a fraction of what you'd spend on petrol.",
-            "image": "https://tristanza.github.io/evnews/media/posts/2/BYD-Dolphin-Surf.webp",
+            "image": "https://evnews.co.za/media/posts/2/BYD-Dolphin-Surf.webp",
             "author": {
                 "name": "Tristan Wiggill"
             },
@@ -122,11 +122,11 @@
             "date_modified": "2026-04-04T11:42:34+02:00"
         },
         {
-            "id": "https://tristanza.github.io/evnews/chery-outlines-nev-strategy/",
-            "url": "https://tristanza.github.io/evnews/chery-outlines-nev-strategy/",
+            "id": "https://evnews.co.za/chery-outlines-nev-strategy/",
+            "url": "https://evnews.co.za/chery-outlines-nev-strategy/",
             "title": "Chery Outlines NEV Strategy",
             "summary": "Tony Liu, the head of Chery Group in South Africa, gave a talk at the NADAConnect 2026 Conference about the company’s future plans. In his presentation, Liu showed off several car brands, including Omoda, Jaecoo,&hellip;",
-            "image": "https://tristanza.github.io/evnews/media/posts/3/Tony-Liu-CEO-Chery-Group-SA.webp",
+            "image": "https://evnews.co.za/media/posts/3/Tony-Liu-CEO-Chery-Group-SA.webp",
             "author": {
                 "name": "Tristan Wiggill"
             },
