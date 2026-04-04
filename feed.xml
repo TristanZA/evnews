@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>EVNEWS.CO.ZA</title>
+    <title>EV NEWS</title>
     <link href="https://tristanza.github.io/evnews/feed.xml" rel="self" />
     <link href="https://tristanza.github.io/evnews" />
-    <updated>2026-04-04T11:46:38+02:00</updated>
+    <updated>2026-04-04T12:45:45+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>

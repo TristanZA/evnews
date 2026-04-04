@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "EVNEWS.CO.ZA",
+    "title": "EV NEWS",
     "description": "",
     "home_page_url": "https://tristanza.github.io/evnews",
     "feed_url": "https://tristanza.github.io/evnews/feed.json",
@@ -35,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2026-03-31T15:46:44+02:00",
-            "date_modified": "2026-04-04T11:42:34+02:00"
+            "date_modified": "2026-04-04T12:45:45+02:00"
         },
         {
             "id": "https://tristanza.github.io/evnews/sas-automotive-future-hinges-on-local-battery-manufacturing/",
