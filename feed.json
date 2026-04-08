@@ -10,6 +10,26 @@
     },
     "items": [
         {
+            "id": "https://evnews.co.za/omoda-launches-c5-shs-hybrid/",
+            "url": "https://evnews.co.za/omoda-launches-c5-shs-hybrid/",
+            "title": "OMODA launches C5 SHS hybrid",
+            "summary": "OMODA South Africa has added the C5 SHS to its local vehicle range. The new model is a hybrid variant of the C5 and is the third electrified OMODA available in South Africa. It is&hellip;",
+            "image": "https://evnews.co.za/media/posts/16/1536C5HEVKV.png",
+            "author": {
+                "name": "Tristan Wiggill"
+            },
+            "tags": [
+                   "hybrid electric vehicle",
+                   "Omoda C5",
+                   "Omoda",
+                   "New Models",
+                   "Jaecoo",
+                   "C5 SHS"
+            ],
+            "date_published": "2026-04-08T11:26:51+02:00",
+            "date_modified": "2026-04-08T11:28:40+02:00"
+        },
+        {
             "id": "https://evnews.co.za/electric-mobility-a-shield-against-global-volatility/",
             "url": "https://evnews.co.za/electric-mobility-a-shield-against-global-volatility/",
             "title": "Electric Mobility A Shield Against Global Volatility",
