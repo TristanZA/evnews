@@ -3,7 +3,7 @@
     <title>EV NEWS</title>
     <link href="https://evnews.co.za/feed.xml" rel="self" />
     <link href="https://evnews.co.za" />
-    <updated>2026-04-08T12:18:56+02:00</updated>
+    <updated>2026-04-08T12:20:47+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
@@ -22,6 +22,7 @@
             <category term="Omoda"/>
             <category term="New Models"/>
             <category term="Jaecoo"/>
+            <category term="HEV"/>
             <category term="C5 SHS"/>
 
         <updated>2026-04-08T11:26:51+02:00</updated>
