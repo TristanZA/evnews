@@ -10,6 +10,25 @@
     },
     "items": [
         {
+            "id": "https://evnews.co.za/dongfeng-nammi-06-ev-arrives-in-sa/",
+            "url": "https://evnews.co.za/dongfeng-nammi-06-ev-arrives-in-sa/",
+            "title": "Dongfeng Nammi 06 EV Arrives in SA",
+            "summary": "Dongfeng has introduced its latest electric vehicle to the South African market with the arrival of the Nammi 06, a compact crossover SUV that undercuts rivals by a significant margin. Priced from R499,900, the Nammi&hellip;",
+            "image": "https://evnews.co.za/media/posts/18/Dongfeng-Nammi-06.jpg",
+            "author": {
+                "name": "Tristan Wiggill"
+            },
+            "tags": [
+                   "fully electric SUV",
+                   "New Models",
+                   "E Auto Motor",
+                   "Dongfeng Nammi 06",
+                   "Dongfeng"
+            ],
+            "date_published": "2026-04-12T09:33:15+02:00",
+            "date_modified": "2026-04-12T09:48:15+02:00"
+        },
+        {
             "id": "https://evnews.co.za/omoda-launches-c5-shs-hybrid/",
             "url": "https://evnews.co.za/omoda-launches-c5-shs-hybrid/",
             "title": "OMODA launches C5 SHS hybrid",
@@ -159,22 +178,6 @@
             ],
             "date_published": "2026-03-24T20:55:33+02:00",
             "date_modified": "2026-04-04T22:01:10+02:00"
-        },
-        {
-            "id": "https://evnews.co.za/chery-outlines-nev-strategy/",
-            "url": "https://evnews.co.za/chery-outlines-nev-strategy/",
-            "title": "Chery Outlines NEV Strategy",
-            "summary": "Tony Liu, the head of Chery Group in South Africa, gave a talk at the NADAConnect 2026 Conference about the company’s future plans. In his presentation, Liu showed off several car brands, including Omoda, Jaecoo,&hellip;",
-            "image": "https://evnews.co.za/media/posts/3/Tony-Liu-CEO-Chery-Group-SA.webp",
-            "author": {
-                "name": "Tristan Wiggill"
-            },
-            "tags": [
-                   "events",
-                   "Chery"
-            ],
-            "date_published": "2026-03-21T16:56:25+02:00",
-            "date_modified": "2026-04-08T11:55:13+02:00"
         }
     ]
 }

@@ -3,12 +3,35 @@
     <title>EV NEWS</title>
     <link href="https://evnews.co.za/feed.xml" rel="self" />
     <link href="https://evnews.co.za" />
-    <updated>2026-04-08T15:58:19+02:00</updated>
+    <updated>2026-04-12T09:48:15+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
     <id>https://evnews.co.za</id>
 
+    <entry>
+        <title>Dongfeng Nammi 06 EV Arrives in SA</title>
+        <author>
+            <name>Tristan Wiggill</name>
+        </author>
+        <link href="https://evnews.co.za/dongfeng-nammi-06-ev-arrives-in-sa/"/>
+        <id>https://evnews.co.za/dongfeng-nammi-06-ev-arrives-in-sa/</id>
+        <media:content url="https://evnews.co.za/media/posts/18/Dongfeng-Nammi-06.jpg" medium="image" />
+            <category term="fully electric SUV"/>
+            <category term="New Models"/>
+            <category term="E Auto Motor"/>
+            <category term="Dongfeng Nammi 06"/>
+            <category term="Dongfeng"/>
+
+        <updated>2026-04-12T09:33:15+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://evnews.co.za/media/posts/18/Dongfeng-Nammi-06.jpg" alt="Orange Dongfeng Nammi 06" />
+                    Dongfeng has introduced its latest electric vehicle to the South African market with the arrival of the Nammi 06, a compact crossover SUV that undercuts rivals by a significant margin. Priced from R499,900, the Nammi&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>OMODA launches C5 SHS hybrid</title>
         <author>
@@ -192,26 +215,6 @@
                 <![CDATA[
                         <img src="https://evnews.co.za/media/posts/2/BYD-Dolphin-Surf.webp" alt="" />
                     You've probably looked at an electric vehicle (EV) price tag and thought: how is this thing worth that much? Especially when you know that charging one costs a fraction of what you'd spend on petrol.
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Chery Outlines NEV Strategy</title>
-        <author>
-            <name>Tristan Wiggill</name>
-        </author>
-        <link href="https://evnews.co.za/chery-outlines-nev-strategy/"/>
-        <id>https://evnews.co.za/chery-outlines-nev-strategy/</id>
-        <media:content url="https://evnews.co.za/media/posts/3/Tony-Liu-CEO-Chery-Group-SA.webp" medium="image" />
-            <category term="events"/>
-            <category term="Chery"/>
-
-        <updated>2026-03-21T16:56:25+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://evnews.co.za/media/posts/3/Tony-Liu-CEO-Chery-Group-SA.webp" alt="" />
-                    Tony Liu, the head of Chery Group in South Africa, gave a talk at the NADAConnect 2026 Conference about the company’s future plans. In his presentation, Liu showed off several car brands, including Omoda, Jaecoo,&hellip;
                 ]]>
             </summary>
         <content></content>
