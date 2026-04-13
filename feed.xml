@@ -3,12 +3,31 @@
     <title>EV NEWS</title>
     <link href="https://evnews.co.za/feed.xml" rel="self" />
     <link href="https://evnews.co.za" />
-    <updated>2026-04-12T09:56:56+02:00</updated>
+    <updated>2026-04-13T10:25:39+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
     <id>https://evnews.co.za</id>
 
+    <entry>
+        <title>The Biggest EV Mistake South Africans Make Before Buying</title>
+        <author>
+            <name>Tristan Wiggill</name>
+        </author>
+        <link href="https://evnews.co.za/the-biggest-ev-mistake-south-africans-make-before-buying/"/>
+        <id>https://evnews.co.za/the-biggest-ev-mistake-south-africans-make-before-buying/</id>
+        <media:content url="https://evnews.co.za/media/posts/19/EV-Charging.jpg" medium="image" />
+            <category term="EV Ownership"/>
+
+        <updated>2026-04-13T10:19:52+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://evnews.co.za/media/posts/19/EV-Charging.jpg" alt="PHEV charging" />
+                    Most people start in the same place when they look at an electric vehicle (EV). They compare range. They look at charging speed. They check the price. That all makes sense. It feels like the&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Dongfeng Nammi 06 EV Arrives in SA</title>
         <author>
@@ -196,25 +215,6 @@
                 <![CDATA[
                         <img src="https://evnews.co.za/media/posts/4/Geely-.webp" alt="" />
                     China National Building Materials (CNBM) South Africa and Geely Auto South Africa have signed a Strategic Cooperation Framework Agreement to work together on clean energy and electric mobility projects across South Africa and the wider&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Why EVs Are Expensive in South Africa</title>
-        <author>
-            <name>Tristan Wiggill</name>
-        </author>
-        <link href="https://evnews.co.za/why-evs-are-expensive-in-south-africa/"/>
-        <id>https://evnews.co.za/why-evs-are-expensive-in-south-africa/</id>
-        <media:content url="https://evnews.co.za/media/posts/2/BYD-Dolphin-Surf.webp" medium="image" />
-            <category term="finance"/>
-
-        <updated>2026-03-24T20:55:33+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://evnews.co.za/media/posts/2/BYD-Dolphin-Surf.webp" alt="" />
-                    You've probably looked at an electric vehicle (EV) price tag and thought: how is this thing worth that much? Especially when you know that charging one costs a fraction of what you'd spend on petrol.
                 ]]>
             </summary>
         <content></content>

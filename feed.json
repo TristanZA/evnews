@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://evnews.co.za/the-biggest-ev-mistake-south-africans-make-before-buying/",
+            "url": "https://evnews.co.za/the-biggest-ev-mistake-south-africans-make-before-buying/",
+            "title": "The Biggest EV Mistake South Africans Make Before Buying",
+            "summary": "Most people start in the same place when they look at an electric vehicle (EV). They compare range. They look at charging speed. They check the price. That all makes sense. It feels like the&hellip;",
+            "image": "https://evnews.co.za/media/posts/19/EV-Charging.jpg",
+            "author": {
+                "name": "Tristan Wiggill"
+            },
+            "tags": [
+                   "EV Ownership"
+            ],
+            "date_published": "2026-04-13T10:19:52+02:00",
+            "date_modified": "2026-04-13T10:25:39+02:00"
+        },
+        {
             "id": "https://evnews.co.za/dongfeng-nammi-06-ev-arrives-in-sa/",
             "url": "https://evnews.co.za/dongfeng-nammi-06-ev-arrives-in-sa/",
             "title": "Dongfeng Nammi 06 EV Arrives in SA",
@@ -163,21 +178,6 @@
             ],
             "date_published": "2026-03-29T12:37:58+02:00",
             "date_modified": "2026-04-04T21:54:28+02:00"
-        },
-        {
-            "id": "https://evnews.co.za/why-evs-are-expensive-in-south-africa/",
-            "url": "https://evnews.co.za/why-evs-are-expensive-in-south-africa/",
-            "title": "Why EVs Are Expensive in South Africa",
-            "summary": "You've probably looked at an electric vehicle (EV) price tag and thought: how is this thing worth that much? Especially when you know that charging one costs a fraction of what you'd spend on petrol.",
-            "image": "https://evnews.co.za/media/posts/2/BYD-Dolphin-Surf.webp",
-            "author": {
-                "name": "Tristan Wiggill"
-            },
-            "tags": [
-                   "finance"
-            ],
-            "date_published": "2026-03-24T20:55:33+02:00",
-            "date_modified": "2026-04-04T22:01:10+02:00"
         }
     ]
 }
