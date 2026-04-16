@@ -3,12 +3,82 @@
     <title>EV NEWS</title>
     <link href="https://evnews.co.za/feed.xml" rel="self" />
     <link href="https://evnews.co.za" />
-    <updated>2026-04-15T13:16:12+02:00</updated>
+    <updated>2026-04-16T15:27:40+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
     <id>https://evnews.co.za</id>
 
+    <entry>
+        <title>SA’s EV Industry Has a Carbon Problem</title>
+        <author>
+            <name>Tristan Wiggill</name>
+        </author>
+        <link href="https://evnews.co.za/sas-ev-industry-has-a-carbon-problem/"/>
+        <id>https://evnews.co.za/sas-ev-industry-has-a-carbon-problem/</id>
+        <media:content url="https://evnews.co.za/media/posts/23/SAETA-Policy-to-Power-Report.png" medium="image" />
+            <category term="tariffs"/>
+            <category term="electricity wheeling"/>
+            <category term="SAETA"/>
+            <category term="NERSA"/>
+            <category term="Industry Reports"/>
+            <category term="European Union"/>
+            <category term="Carbon Border Adjustment Mechanism"/>
+            <category term="CBAM"/>
+
+        <updated>2026-04-16T15:10:37+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://evnews.co.za/media/posts/23/SAETA-Policy-to-Power-Report.png" alt="Wind turbines create renewable energy" />
+                    South Africa's electric vehicle sector is growing. New models are arriving, charging networks are expanding, and government is slowly warming to the idea of a cleaner transport future. But there is a problem that very&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://evnews.co.za/media/posts/23/SAETA-Policy-to-Power-Report.png" class="type:primaryImage" alt="Wind turbines create renewable energy" /></p>
+                <p class="dropcap"><span style="font-weight: 400;">South Africa's electric vehicle sector is growing. <a href="https://evnews.co.za/tags/new-models/">New models are arriving</a>, charging networks are expanding, and government is slowly warming to the idea of a cleaner transport future. </span></p>
+<p><span style="font-weight: 400;">But there is a problem that very few people in the industry are talking about openly. It has nothing to do with range anxiety or charging infrastructure. </span><span style="font-weight: 400;">It has to do with the electricity that powers the factories making these vehicles, and a European trade rule that is already in force.</span></p>
+<h4><strong>What is CBAM?</strong></h4>
+<p><span style="font-weight: 400;">The EU's <a href="https://grokipedia.com/page/Carbon_Border_Adjustment_Mechanism" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Carbon Border Adjustment Mechanism</a> — known as CBAM — is a carbon tariff on goods imported into Europe. </span></p>
+<p><span style="font-weight: 400;">It targets products made using carbon-intensive energy. The idea is straightforward. If a factory in South Africa uses dirty, coal-fired electricity to manufacture goods, and those goods are then sold into the European Union, the buyer in Europe pays a carbon levy on top of the normal import price.</span></p>
+<p><span style="font-weight: 400;">CBAM entered its transitional phase in October 2023. Full enforcement began in January 2026. </span></p>
+<h4><strong>Why this matters for South Africa's EV sector</strong></h4>
+<p><span style="font-weight: 400;">South Africa's automotive industry is one of the country's most important export sectors. It supplies vehicles and components to markets around the world, including Europe. </span></p>
+<p><span style="font-weight: 400;">As the industry shifts towards electric vehicles, both in terms of what it assembles locally and what it exports, the carbon intensity of the electricity used in production becomes a direct business cost.</span></p>
+<p><span style="font-weight: 400;">South Africa generates roughly 80% of its electricity from coal. That makes it one of the most carbon-intensive grids in the world. A vehicle or component assembled here, using grid electricity, carries a significant carbon footprint before it even leaves the factory floor.</span></p>
+<p><span style="font-weight: 400;">Under CBAM, European importers of those goods will need to account for that carbon. They will pay for it. And in a competitive global market, that cost will eventually find its way back to South African manufacturers in the form of lower margins, lost contracts, or pressure to clean up their supply chains.</span></p>
+<h4><strong>The electricity reform connection</strong></h4>
+<p><span style="font-weight: 400;">This is where South Africa's ongoing electricity reform becomes directly relevant to the EV industry, and why a research report published in early 2026 by the <a href="https://www.saeta.org.za/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">South Africa Electricity Traders Association</a> (SAETA) and research firm Krutham deserves attention from anyone working in this space.</span></p>
+<p><span style="font-weight: 400;">The report, titled </span><i><span style="font-weight: 400;">Policy to Power</span></i><span style="font-weight: 400;">, makes the case that electricity market reform is not solely about keeping the lights on. It is also about decarbonisation, competitiveness, and reducing South Africa's exposure to exactly these kinds of carbon trade measures.</span></p>
+<p><span style="font-weight: 400;">The report states clearly that market reform "underpins decarbonisation by enabling rapid investment in renewables, supporting corporate decarbonisation and reducing exposure to carbon border measures such as the EU's Carbon Border Adjustment Mechanism."</span></p>
+<p><span style="font-weight: 400;">In other words, the faster South Africa reforms its electricity market and opens it up to renewable energy, the faster manufacturers can access cleaner power, and the lower their CBAM exposure becomes.</span></p>
+<h4><strong>The wheeling opportunity</strong></h4>
+<p><span style="font-weight: 400;">One of the most practical tools available right now is electricity wheeling. This allows a business to buy renewable energy directly from an independent power producer and have it delivered across the national grid to their facility. </span></p>
+<p><span style="font-weight: 400;">Electricity traders, a relatively new category of licensed market participant in South Africa, play a central role here. They aggregate supply from multiple renewable generators and match it with business customers, including manufacturers. </span></p>
+<p><span style="font-weight: 400;">The SAETA report notes that traders already have a pipeline of 18 gigawatts of renewable energy projects in development. That is a significant pool of clean power waiting to reach businesses that need it.</span></p>
+<p><span style="font-weight: 400;">For an EV manufacturer or component supplier looking to reduce its carbon footprint ahead of European export deadlines, this is not a theoretical option. It is available today, in metros and areas where wheeling frameworks are in place.</span></p>
+<h4><strong>The catch</strong></h4>
+<p><span style="font-weight: 400;">The problem is that access to wheeling is uneven. </span></p>
+<p><span style="font-weight: 400;">Only 10 of South Africa's 257 municipalities have adopted wheeling policies. That means a factory located in the wrong municipality simply cannot access green power through this route, regardless of how much renewable energy is available on the grid.</span></p>
+<p><span style="font-weight: 400;">The SAETA report identifies this as one of the key blockages holding back electricity reform. Municipal distribution reform is listed as one of its ten priority actions. Until more municipalities open their networks to wheeling, the CBAM risk for manufacturers in those areas remains unaddressed.</span></p>
+<h4><strong>What energy-intensive EV firms should be doing</strong></h4>
+<p><span style="font-weight: 400;">The CBAM is not going away. If anything, the EU is likely to expand its scope over time. For South African businesses exporting to Europe, or hoping to, the core issue is how quickly they can adapt.</span></p>
+<p><span style="font-weight: 400;">A few practical starting points:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><strong>Understand your carbon exposure.</strong><span style="font-weight: 400;"> Map the electricity consumption in your production process and calculate the carbon intensity based on the South African grid average. This is the number that will determine your CBAM liability.</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Explore wheeling options.</strong><span style="font-weight: 400;"> If your facility is in a municipality with a wheeling policy, speak to a licensed electricity trader about accessing renewable power. The cost savings and carbon benefits can be significant.</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Engage with the reform process.</strong><span style="font-weight: 400;"> Industry bodies, including those representing the automotive and EV sectors, should be actively engaging with <a href="https://www.nersa.org.za/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">NERSA</a> and the Department of Electricity and Energy on trading rules, wheeling frameworks, and the pace of electricity market reform. </span></li>
+</ul>
+<h4><strong>The bigger picture</strong></h4>
+<p><span style="font-weight: 400;">South Africa has a narrow window to get this right. </span></p>
+<p><span style="font-weight: 400;">The SAETA report warns that load shedding could return from 2029 as coal plants retire and demand rises. At the same time, the pressure from CBAM and South Africa's own carbon tax is building. The two forces are converging on the same point: the electricity grid needs to get cleaner, faster.</span></p>
+<p><span style="font-weight: 400;">The risk for the EV industry is that slow reform leaves manufacturers exposed to rising carbon costs on their European exports. The opportunity is that businesses which move early, securing green power through wheeling and traders, will have a genuine competitive advantage over those that wait.</span></p>
+<hr>
+<p><i><span style="font-weight: 400;">Source: <a href="https://evnews.co.za/media/files/Policy-to-power-Ten-actions-to-deliver-green-accessible-and-secure-electricity.pdf">Policy to Power — Ten Actions to Deliver Green, Accessible and Secure Electricity, SAETA/Krutham (2026)</a></span></i></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Where South Africans Charge Their EVs</title>
         <author>
@@ -30,7 +100,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://evnews.co.za/media/posts/22/Home-EV-charging.jpg" class="type:primaryImage" alt="home EV charging" /></p>
-                <p>There's a common assumption about EV ownership. Most people imagine pulling up to a public charger, plugging in, and waiting. Like a petrol station, but slower. That picture is not wrong exactly. It just isn't the full story.</p>
+                <p class="dropcap">There's a common assumption about EV ownership. Most people imagine pulling up to a public charger, plugging in, and waiting. Like a petrol station, but slower. That picture is not wrong exactly. It just isn't the full story.</p>
 <p>In practice, most EV owners in South Africa charge in far quieter, more ordinary moments. And understanding where that happens changes how you think about the whole ownership experience.</p>
 <hr>
 <h3>Home charging: where it usually starts</h3>
@@ -180,7 +250,7 @@
             <![CDATA[
                     <p><img src="https://evnews.co.za/media/posts/19/EV-Charging.jpg" class="type:primaryImage" alt="PHEV charging" /></p>
                 <h3> </h3>
-<p>Most people start in the same place when they look at an electric vehicle (EV).</p>
+<p class="dropcap">Most people start in the same place when they look at an electric vehicle (EV).</p>
 <p>They compare range.<br>They look at charging speed.<br>They check the price.</p>
 <p>That all makes sense. It feels like the right way to choose a car.</p>
 <p>But there’s one question that matters far more than any of those:</p>
@@ -371,7 +441,7 @@
             <![CDATA[
                     <p><img src="https://evnews.co.za/media/posts/10/Electric-Mobility.webp" class="type:primaryImage" alt="woman charges her electric vehicle" /></p>
                 <p><!-- wp:paragraph --></p>
-<p>In the 1970s South Africans faced strict fuel rationing, 80km/h speed limits, and dry weekends where not a drop of petrol could be bought. </p>
+<p class="dropcap">In the 1970s South Africans faced strict fuel rationing, 80km/h speed limits, and dry weekends where not a drop of petrol could be bought. </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Conflict in the Middle-East back then was a stark lesson in how vulnerable a nation becomes when its transport and logistics are tethered to a foreign fossil fuel supply. Fast forward to 2026, and the geopolitical landscape feels eerily familiar. </p>
@@ -460,7 +530,7 @@
             <![CDATA[
                     <p><img src="https://evnews.co.za/media/posts/9/VolvoMDGrantLocke.webp" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
-<p>Every time fuel prices rise, the conversation around electric vehicles picks up.</p>
+<p class="dropcap">Every time fuel prices rise, the conversation around electric vehicles picks up.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Search trends spike, showroom enquiries increase, and suddenly everyone has an opinion on whether now is the right time to make the switch. It is a familiar cycle. What is different this time, according to Volvo Car South Africa, is that the conversation is maturing.</p>
@@ -560,7 +630,7 @@
             <![CDATA[
                     <p><img src="https://evnews.co.za/media/posts/8/FordPHEVBatteryAssemblyPlant.webp" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
-<p>A new World Bank report suggests that battery manufacturing and local beneficiation of battery minerals will determine whether South Africa can preserve its automotive base and build new industrial capability.</p>
+<p class="dropcap">A new World Bank report suggests that battery manufacturing and local beneficiation of battery minerals will determine whether South Africa can preserve its automotive base and build new industrial capability.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>The country’s vehicle production for export has long depended on Europe and the United Kingdom. Those markets will gradually phase out internal combustion engine vehicles, which means original equipment manufacturers in South Africa will face shrinking demand for traditional models. </p>
@@ -654,141 +724,6 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Ultimately, South Africa requires decisive action in order to protect a cornerstone of its economy and position it for future growth.</p>
-<p><!-- /wp:paragraph --></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Why SA Imports Battery Cells</title>
-        <author>
-            <name>Tristan Wiggill</name>
-        </author>
-        <link href="https://evnews.co.za/why-sa-imports-battery-cells/"/>
-        <id>https://evnews.co.za/why-sa-imports-battery-cells/</id>
-        <media:content url="https://evnews.co.za/media/posts/7/VinFast_VF_8_Li-ion_battery_pack_05.webp" medium="image" />
-            <category term="minerals"/>
-
-        <updated>2026-03-31T14:09:18+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://evnews.co.za/media/posts/7/VinFast_VF_8_Li-ion_battery_pack_05.webp" alt="" />
-                    South Africa is the world's number one producer of manganese, outputting around 7.4 million tonnes in 2024. This is roughly the same amount as Gabon and Australia combined. The country also holds significant vanadium reserves, with&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://evnews.co.za/media/posts/7/VinFast_VF_8_Li-ion_battery_pack_05.webp" class="type:primaryImage" alt="" /></p>
-                <p><!-- wp:paragraph --></p>
-<p>South Africa is the world's number one producer of manganese, outputting around 7.4 million tonnes in 2024. This is roughly the same amount as Gabon and Australia combined. </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The country also holds significant vanadium reserves, with <a href="https://www.bushveldminerals.com/vanadium/overview/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Bushveld Vanadium</a> operating one of the most advanced vanadium electrolyte production facilities in the world. </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Furthermore, the broader Southern African Development Community (SADC) region contains virtually every mineral needed to manufacture a modern battery cell: lithium (Zimbabwe), cobalt (DRC), copper (Zambia), graphite (Mozambique), nickel, iron, phosphorus, and aluminium.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Yet, according to the Faraday Institution's landmark <a href="https://evnews.co.za/Charging-ahead-March2026-FINAL.pdf" rel="nofollow"><em>"Charging Ahead"</em> report (March 2026)</a>, South Africa does not manufacture a single Li-ion battery cell locally. Every cell in every electric vehicle (EV), every solar backup system, and every grid-scale storage installation is imported, overwhelmingly from China.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>This is the Mineral Paradox.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:separator --></p>
-<h3 class="wp-block-heading">The Numbers Tell the Story</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Of all the manganese South Africa produces, only approximately 5% is used domestically, processed by the <a href="https://www.manganese.org/en/tech-tours/manganese-metal-company-mmc" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Manganese Metal Company (MMC)</a> at its Mbombela refinery, which has been operational since 1974. </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The remaining 95% is exported as raw ore or basic metal, with the value-added processing — and the jobs and revenue that come with it — happening elsewhere. The situation with vanadium is similar. Bushveld Vanadium exports the majority of its production, with the Netherlands being the primary destination. </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Between 2019 and 2023, vanadium exports to the Netherlands grew by approximately 56%. South Africa ships the raw material; Europe captures the value. Meanwhile, South Africa's Li-ion battery import bill has grown dramatically. </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Import data from <a href="https://www.trademap.org/Index.aspx" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Trade Map</a> shows that China dominates the supply of lithium cells and battery packs into South Africa, with the value of imports rising sharply from 2019 to 2023 as demand for solar storage and EVs accelerated.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:separator --></p>
-<h3 class="wp-block-heading">Why Hasn't South Africa Closed the Gap?</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>The report identifies several structural barriers:</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><strong>Refining capacity</strong> is the missing link. Mining the ore is one thing; processing it into battery-grade chemicals (manganese sulfate, vanadium pentoxide, lithium hydroxide) is an entirely different industrial capability. South Africa currently lacks the refining infrastructure to convert its raw mineral wealth into the high-purity precursor materials that cell manufacturers require.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><strong>Cell manufacturing</strong> requires massive scale. China produces approximately 85% of the world's battery cells and storage systems. The capital investment, supply chain depth, and economies of scale required to compete are enormous. South Africa cannot simply "build a factory" and expect to be competitive overnight.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><strong>Policy</strong> has not yet aligned with opportunity. Unlike Zimbabwe, which in 2022 banned the export of unprocessed lithium ore to force local beneficiation, South Africa has not yet implemented equivalent "beneficiation mandates" for manganese or vanadium. The minerals leave the country before the value is added.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The <strong>skills pipeline</strong> is thin at the top. While South Africa has strong graduate-level mining and engineering talent, the report notes a "crippling shortage" of Masters and PhD-level specialists in battery chemistry, materials science, and electrochemical engineering — the exact skills needed to design and operate a cell manufacturing facility.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:separator --></p>
-<h3 class="wp-block-heading">The <span style="color: #169179;">Green</span> Shoots: What <em>Is</em> Happening</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>The picture is not entirely bleak. The report highlights several encouraging developments that suggest the gap is beginning to close:</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><strong>MMC's new plant:</strong> The Manganese Metal Company is currently constructing a 6,000 tonne-per-annum Phase 1 plant to manufacture high-purity manganese sulfate monohydrate — a direct battery precursor material. This is a significant step from raw ore to battery-grade chemical.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><strong>Bushveld's electrolyte facility</strong>: Bushveld Vanadium's electrolyte production plant in East London has an initial target capacity of 8 million litres per year, with potential expansion to 32 million litres. This positions South Africa as a potential global supplier of vanadium electrolyte for flow batteries.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><strong>Local pack assembly is growing</strong>. While cell manufacturing remains absent, approximately 10 South African companies — including iG3N, Blue Nova, Freedom Won, Solar MD, and REVOV — are assembling Li-ion battery packs for stationary storage and EV applications. This is midstream activity, not upstream cell production, but it represents a growing local capability.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><strong>Mintek's pilot programme:</strong> The state-owned research organisation Mintek is running a pilot-scale demonstration of recovery and production of battery-grade salts of nickel, manganese, and copper, as well as battery-grade purified phosphoric acid — the building blocks of a future local cell manufacturing industry.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:separator --></p>
-<h3 class="wp-block-heading">What the 2026 Roadmap Says</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>The <em><a href="https://evnews.co.za/the-2026-south-africa-battery-landscape-report/">Charging Ahead</a></em> report's roadmap for South Africa is explicit: local cell manufacturing must be a long-term national strategic goal, not an afterthought. </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The short-term priority (2025–2030) is to develop battery-grade chemicals and precursors — the refining step that currently sends value offshore. The mid-term goal (2030–2035) is to build at least 10 GWh of local Li-ion cell manufacturing capacity.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>For context, 10 GWh is modest by global standards — <a href="https://www.tesla.com/giga-nevada" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Tesla's Nevada Gigafactory</a> produces over 35 GWh per year — but it would be transformative for South Africa's industrial base and could create up to 60,000 new jobs across the battery value chain.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The report also notes a strategic decision that South Africa must make in collaboration with its SADC neighbours: which minerals to refine locally, and which to refine at source. </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>For manganese, aluminium, and nickel, local refining already makes economic sense. For lithium (from Zimbabwe), cobalt (from the DRC), and graphite (from Mozambique and Madagascar), refining at the source country may be more viable — or South Africa could explore synthetic graphite production from its abundant coal reserves.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:separator --></p>
-<h4 class="wp-block-heading">What This All Means </h4>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>For South African businesses investing in EVs and charging infrastructure today, the Mineral Paradox has a direct practical implication: you are entirely dependent on imported battery technology, with all the currency risk, supply chain vulnerability, and price volatility that entails.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The good news is that this is a solvable problem — and South Africa has more of the raw ingredients to solve it than almost any other country on earth. </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The question is whether <span style="text-decoration: underline;">policy</span>, <span style="text-decoration: underline;">industrial investment</span>, and <span style="text-decoration: underline;">skills development</span> can align fast enough to capture the opportunity before it moves elsewhere.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:separator --></p>
-<hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator -->
-<p><!-- wp:paragraph --></p>
-<p><span style="color: #169179;"><strong><mark class="has-inline-color" style="background-color: rgba(0, 0, 0, 0);">Disclaimer:</mark></strong></span><em> This article is based on the South Africa chapter of the Faraday Institution's "Charging Ahead: Battery Ecosystems, Energy Transitions and Electrification in Emerging Economies" report (March 2026). </em></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><em>The country-specific findings reflect the perspective of the appointed Battery Ambassador, <a href="https://www.linkedin.com/in/dr-nithyadharseni-palaniyandy-5288092a/" data-type="link" data-id="https://www.linkedin.com/in/dr-nithyadharseni-palaniyandy-5288092a/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Dr Nithyadharseni Palaniyandy</a> of the University of South Africa (UNISA), and represent a landscape assessment rather than independently verified data or official government policy.</em></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
             ]]>
         </content>
