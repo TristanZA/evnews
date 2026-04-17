@@ -3,12 +3,90 @@
     <title>EV NEWS</title>
     <link href="https://evnews.co.za/feed.xml" rel="self" />
     <link href="https://evnews.co.za" />
-    <updated>2026-04-16T21:32:01+02:00</updated>
+    <updated>2026-04-17T13:38:49+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
     <id>https://evnews.co.za</id>
 
+    <entry>
+        <title>Public Charging in South Africa: Practical Planning for the Road</title>
+        <author>
+            <name>Tristan Wiggill</name>
+        </author>
+        <link href="https://evnews.co.za/public-charging-in-south-africa-practical-planning-for-the-road/"/>
+        <id>https://evnews.co.za/public-charging-in-south-africa-practical-planning-for-the-road/</id>
+        <media:content url="https://evnews.co.za/media/posts/25/Public-EV-charging.jpg" medium="image" />
+            <category term="public charging"/>
+            <category term="public chargers"/>
+            <category term="load shedding"/>
+            <category term="fast charging"/>
+            <category term="Rubicon"/>
+            <category term="GridCars"/>
+            <category term="EV Ownership"/>
+
+        <updated>2026-04-17T13:18:13+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://evnews.co.za/media/posts/25/Public-EV-charging.jpg" alt="Public EV charging" />
+                    Public charging is the part of EV ownership that gets the most attention. It’s the part you see on the news and the part that looks the most familiar. But using a public charger in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://evnews.co.za/media/posts/25/Public-EV-charging.jpg" class="type:primaryImage" alt="Public EV charging" /></p>
+                <p class="dropcap">Public charging is the part of <a href="https://evnews.co.za/tags/ev-ownership/">EV ownership</a> that gets the most attention. It’s the part you see on the news and the part that looks the most familiar.</p>
+<p>But using a public charger in South Africa is not quite the same as pulling up to a petrol pump. It requires a different way of thinking.</p>
+<p>The networks are growing, and the technology is improving, but it is still a system in progress. If you understand how it works now, you can avoid the frustration that many new owners face.</p>
+<hr>
+<h3>Charging speed is a maximum, not a promise</h3>
+<p>One of the first things you will notice is that public chargers are labelled with a speed, like 60kW, 80kW or 150kW. It is easy to assume that if you plug into a 150kW charger, your car will always charge at that speed. In reality, it is more complicated.</p>
+<p>The speed you get depends on several factors:</p>
+<ul>
+<li><strong>Your car’s limit:</strong> Every EV has a maximum speed it can accept. If your car is limited to 100kW, it will never charge faster than that, even on a 300kW charger.</li>
+<li><strong>Battery fullness:</strong> Charging is fastest when the battery is low. As the battery fills up, it slows down to protect the cells.</li>
+<li><strong>Temperature:</strong> If the battery is excessively hot or cold, the charging speed will drop.</li>
+<li><strong>Shared power:</strong> Many public units have two plugs. If someone else is charging at the same time, the unit often splits its power between the two of you.</li>
+</ul>
+<p>Think of the number on the charger as a ceiling, not a guarantee.</p>
+<hr>
+<h3>Managing the "App Problem"</h3>
+<p>In South Africa, public charging is managed by several different companies. Most of them have their own apps, payment systems and membership cards. Currently, there is no single app that covers every charger in the country. This means preparation is key.</p>
+<p>Before you set off on a trip, you should:</p>
+<ul>
+<li>Identify which networks are on your route (such as <a href="https://gridcars.net/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">GridCars</a>, Rubicon or others).</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.onroad.rubicon&amp;hl=en/&amp;pli=1" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Download the relevant apps</a> and register your details.</li>
+<li>Load some credit into the digital wallets on those apps.</li>
+</ul>
+<p>Trying to download an app and enter credit card details while standing at a charger in a remote area is a situation you want to avoid. Five minutes of setup at home saves half an hour of stress on the road.</p>
+<hr>
+<h3>Why the "Plan B" is essential</h3>
+<p>South Africa presents unique challenges for any electrical network. Infrastructure can be affected by weather, technical faults, or even simple connectivity issues. A charger that shows as "Available" on a map might be offline when you arrive. Or, someone else might be using it, and they could be there for another 40 minutes.</p>
+<p>This is why experienced EV owners in South Africa always have a backup plan.</p>
+<p>If you are planning to stop at a specific charger, always know where the next nearest one is. Never arrive at a charger with so little battery that you couldn't reach your backup option if you had to. A 15% to 20% safety margin is a sensible rule for long-distance travel here.</p>
+<hr>
+<h3>The practicalities of a charging stop</h3>
+<p>What does a real charging stop look like? Public DC chargers use large, heavy cables that are permanently attached to the unit. You park, plug in, and then use your app or an RFID card to start the session.</p>
+<p>While the car charges, you generally leave it. This is why chargers are located at malls, convenience pulls, or farm stalls. You go for a coffee, use the bathroom, or stretch your legs. By the time you are ready to leave, the car usually is too.</p>
+<p>Most owners find that they don't "wait" for the car to charge. Instead, the car charges while they take a necessary break from driving.</p>
+<hr>
+<h3>A note on load shedding and reliability</h3>
+<p>One of the most common questions in South Africa is what happens during load shedding. Many public charging sites at major malls or highway stops have backup power, such as large generators or solar-and-battery systems. However, not all of them do.</p>
+<p>Modern charging apps often show the live status of a charger. If a site is down due to a power cut, it will usually show as offline in the app. Checking the app ten minutes before you arrive can save you a wasted detour.</p>
+<hr>
+<h3>Improving your route planning</h3>
+<p>For daily driving in the city, you will likely never need a public charger. For long trips, a little digital help goes a long way.</p>
+<p>There are tools and websites that help you plan which chargers to use based on your specific car and the route you are taking. They can even predict how much battery you will have left at each stop.</p>
+<p>Using these tools removes the guesswork. You stop being a pioneer and start being someone who is just following a map.</p>
+<hr>
+<h3>The bottom line on public charging</h3>
+<p>Public charging in South Africa is good enough for most major routes, but it is not yet perfect. It requires you to be a little more organised than you would be in a petrol car. You need the right apps, a little bit of credit, and a clear idea of where your backup stops are.</p>
+<p>Once you have those basics sorted, the "anxiety" of charging mostly disappears. It just becomes another part of the journey.</p>
+<hr>
+<p><em>In the next article, we will move from the road to the driveway. We’ll look at what you actually need to do in the first week of owning your EV to make sure everything is set up correctly for the long term.</em></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Home Charging Key For Electric Taxis</title>
         <author>
@@ -200,7 +278,7 @@
 <p>If you are still considering an EV, it is worth mapping out your own charging picture before you buy.</p>
 <p>Think through where the car will park at home, whether your workplace has or could have charging, which destinations you visit regularly, and how often you travel long distances. That map will tell you whether EV ownership is likely to feel easy or whether it will require more planning than you are comfortable with.</p>
 <hr>
-<p><em>In the next article, we take a closer look at public charging in South Africa — what the networks look like, what to expect from a real charging stop, and how to plan so that a slow or unavailable charger never catches you off guard.</em></p>
+<p><em>In the next article, we take a closer look at <a href="https://evnews.co.za/public-charging-in-south-africa-practical-planning-for-the-road/">public charging in South Africa</a> — what the networks look like, what to expect from a real charging stop, and how to plan so that a slow or unavailable charger never catches you off guard.</em></p>
             ]]>
         </content>
     </entry>
@@ -556,101 +634,6 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>It provides a sustainable way to move people and goods whilst creating the kind of stable, predictable environment that attracts investor confidence. Rapid adoption is the priority. The goal is to generate our own energy security rather than import the instability of foreign markets.</p>
-<p><!-- /wp:paragraph --></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The case for EVs runs deeper than fuel price</title>
-        <author>
-            <name>Tristan Wiggill</name>
-        </author>
-        <link href="https://evnews.co.za/the-case-for-evs-runs-deeper-than-fuel-price/"/>
-        <id>https://evnews.co.za/the-case-for-evs-runs-deeper-than-fuel-price/</id>
-        <media:content url="https://evnews.co.za/media/posts/9/VolvoMDGrantLocke.webp" medium="image" />
-            <category term="Opinion"/>
-
-        <updated>2026-03-31T15:46:44+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://evnews.co.za/media/posts/9/VolvoMDGrantLocke.webp" alt="" />
-                    Every time fuel prices rise, the conversation around electric vehicles picks up. Search trends spike, showroom enquiries increase, and suddenly everyone has an opinion on whether now is the right time to make the switch.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://evnews.co.za/media/posts/9/VolvoMDGrantLocke.webp" class="type:primaryImage" alt="" /></p>
-                <p><!-- wp:paragraph --></p>
-<p class="dropcap">Every time fuel prices rise, the conversation around electric vehicles picks up.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Search trends spike, showroom enquiries increase, and suddenly everyone has an opinion on whether now is the right time to make the switch. It is a familiar cycle. What is different this time, according to Volvo Car South Africa, is that the conversation is maturing.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><a href="https://www.linkedin.com/in/grant-locke/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Grant Locke</a>, Managing Director of <a href="https://www.volvocars.com/za/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Volvo Car South Africa</a>, puts it plainly.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>"Fuel price increases may start the conversation, but they are not the full story. When you look at the total cost of ownership, the flexibility, and the advancements in battery technology, electric vehicles begin to make a compelling case on their own."</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>That case, it turns out, has very little to do with the petrol price board outside your nearest garage.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:heading {"level":3} --></p>
-<h3 class="wp-block-heading">The Maths Behind Electric Ownership</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>One of the most under-appreciated aspects of EV ownership is what happens after the purchase.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Electric vehicles carry fewer moving parts than their petrol-powered counterparts, which translates into reduced maintenance requirements. Servicing intervals can stretch to every two years, with associated costs that tend to sit well below what traditional vehicle owners are accustomed to paying.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Battery technology has also come a long way. Most manufacturers now back their batteries with warranties of up to eight years or <span style="color: #2dc26b;"><mark class="has-inline-color has-accent-color" style="background-color: rgba(0, 0, 0, 0);">160,000 kilometres</mark></span>. For anyone eyeing the pre-owned market, battery health certificates are increasingly standard, offering a clear picture of remaining capacity before you commit.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Then there is the charging question, which is where the economics become genuinely interesting. Locke is direct about this.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:pullquote --></p>
-<figure class="wp-block-pullquote">
-<blockquote>
-<p>"The ability to charge at home fundamentally changes the economics of driving."</p>
-</blockquote>
-</figure>
-<p><!-- /wp:pullquote --></p>
-<p><!-- wp:paragraph --></p>
-<p>"Whether it is overnight charging on lower tariffs or making use of solar power, drivers have far more control over their monthly mobility costs." The numbers support this. Charging 50kWh via a public DC fast charger can set you back around R400, delivering roughly 250 to 350 kilometres of range.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The same charge at home during off-peak hours could cost closer to R175. For a commuter covering 60 kilometres a day on weekdays, monthly energy costs could settle around R750, based on average consumption figures and current electricity tariffs.</p>
-<p class="post__image align-center"><img decoding="async" loading="lazy" src="https://evnews.co.za/media/posts/9/Volvo_ES90_Exterior.webp" alt="Volvo ES90" width="1617" height="1080" sizes="(max-width: 48em) 100vw, 768px" srcset="https://evnews.co.za/media/posts/9/responsive/Volvo_ES90_Exterior-xs.webp 300w ,https://evnews.co.za/media/posts/9/responsive/Volvo_ES90_Exterior-sm.webp 480w ,https://evnews.co.za/media/posts/9/responsive/Volvo_ES90_Exterior-md.webp 768w ,https://evnews.co.za/media/posts/9/responsive/Volvo_ES90_Exterior-lg.webp 1024w ,https://evnews.co.za/media/posts/9/responsive/Volvo_ES90_Exterior-xl.webp 1360w ,https://evnews.co.za/media/posts/9/responsive/Volvo_ES90_Exterior-2xl.webp 1600w"><em>The new Volvo ES90 arrived in SA in Q1</em></p>
-<h3>A Broader Economic Argument</h3>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:image {"id":5347,"sizeSlug":"full","linkDestination":"none"} --></p>
-<p><!-- /wp:image --></p>
-<p><!-- wp:heading {"level":3} --></p>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Fuel prices do not only affect what you pay at the pump.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>South Africa moves more than 80% of its goods by road, which means diesel price increases ripple outward into food costs, retail prices, and household budgets across the board. The forecourt is just the most visible pressure point.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>This broader context is shifting how South Africans think about their vehicles. An EV is a hedge against a volatile global oil market, a way to reduce exposure to currency fluctuations, and for those with solar installations, a meaningful step towards genuine energy independence.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Infrastructure is also catching up. Charging networks are expanding, and policy frameworks are gradually aligning with the direction of travel.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Locke sees this shift as something more fundamental than a reaction to short-term price pressures. "As more South Africans begin to understand these dynamics, the shift to electric becomes less about reacting to fuel prices and more about making a smarter long-term mobility choice."</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The upfront cost of electric vehicles has historically given buyers pause. That calculation is changing.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Running costs are lower, servicing is simpler, and the technology is more reliable than many assume. For South African drivers willing to look past the initial price tag, the long-term picture is becoming increasingly difficult to ignore.</p>
 <p><!-- /wp:paragraph --></p>
             ]]>
         </content>
