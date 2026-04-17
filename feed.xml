@@ -3,12 +3,54 @@
     <title>EV NEWS</title>
     <link href="https://evnews.co.za/feed.xml" rel="self" />
     <link href="https://evnews.co.za" />
-    <updated>2026-04-17T14:04:08+02:00</updated>
+    <updated>2026-04-17T15:03:05+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
     <id>https://evnews.co.za</id>
 
+    <entry>
+        <title>Cape Town to get SA&#x27;s first locally built electric buses</title>
+        <author>
+            <name>Tristan Wiggill</name>
+        </author>
+        <link href="https://evnews.co.za/cape-town-to-get-sas-first-locally-built-electric-buses/"/>
+        <id>https://evnews.co.za/cape-town-to-get-sas-first-locally-built-electric-buses/</id>
+        <media:content url="https://evnews.co.za/media/posts/26/MyCiti-Cape-Town-Electric-Bus.jpg" medium="image" />
+            <category term="public transport"/>
+            <category term="electric bus"/>
+            <category term="buses"/>
+            <category term="Volvo BZRLE buses"/>
+            <category term="Urban Electric Mobility Initiative"/>
+            <category term="University of Cape Town"/>
+            <category term="Rob Quintas"/>
+            <category term="MyCiTi"/>
+            <category term="Cape Town"/>
+
+        <updated>2026-04-17T14:47:59+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://evnews.co.za/media/posts/26/MyCiti-Cape-Town-Electric-Bus.jpg" alt="MyCiTi bus" />
+                    Cape Town is preparing to take delivery of its first electric bus in August, the start of a phased rollout that will bring 30 new vehicles into the MyCiTi fleet by mid-2027. The 12-metre Volvo&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://evnews.co.za/media/posts/26/MyCiti-Cape-Town-Electric-Bus.jpg" class="type:primaryImage" alt="MyCiTi bus" /></p>
+                <p class="first:mt-1.5! dropcap">Cape Town is preparing to take delivery of its first electric bus in August, the start of a phased rollout that will bring 30 new vehicles into the <a href="https://www.myciti.org.za/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">MyCiTi </a>fleet by mid-2027.</p>
+<p class="first:mt-1.5!">The 12-metre Volvo BZRLE buses will be the first electric buses in South Africa to have their bodies manufactured locally. The bodywork will be produced in Johannesburg, giving the project an added dimension as a boost to domestic industry.</p>
+<p class="first:mt-1.5!">The City of <a href="https://www.capetown.gov.za/Departments/Urban%20Mobility" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Cape Town's Urban Mobility Directorate</a> will receive the first bus in August, followed by 13 more before the end of the year. The remaining vehicles will arrive by June 2027.</p>
+<p>Subject to a successful testing period, passenger services are expected to begin on 1 July 2027, on routes linking Mitchells Plain and Khayelitsha with Wynberg, Claremont and the Cape Town CBD.</p>
+<p class="first:mt-1.5!">The new buses will serve MyCiTi's metro south-east network, including routes forming part of the Phase 2A expansion. Two new depots built to house the fleet were completed in October last year at a cost of R430 million.</p>
+<p>Each facility spans 7.5 hectares and includes underground charging infrastructure, mechanical workshops and capacity for up to 250 buses as the fleet grows. Rob Quintas, the mayoral committee member for urban mobility, said the timing of the rollout was well suited to the current environment.</p>
+<p class="first:mt-1.5!">"The delivery of the electric bus fleet cannot be more timeous, given the volatility of the energy markets and uncertain geopolitical environment," he said. "Apart from lowering our carbon emissions, an electric bus fleet could offer multiple other benefits, especially as far as maintenance and operational costs are concerned."</p>
+<p class="first:mt-1.5!">International experience points to operating cost reductions of up to 70% for electric bus fleets, though the city will conduct its own research to determine what savings are achievable locally. Before the buses enter regular service, the city will run a 12-month testing programme in partnership with the University of Cape Town.</p>
+<p>The research, funded jointly by the city and the <a href="https://www.uemi.net/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Urban Electric Mobility Initiative</a>, will assess battery performance across different route profiles, the effect of passenger loads and weather conditions on energy consumption, and charging times. The findings will inform driver training, maintenance planning and the broader rollout scheduled for 2027.</p>
+<p class="first:mt-1.5!">The city has indicated that acquiring additional electric buses remains a priority. Further expansion will depend on funding from national government. Cape Town's MyCiTi network currently operates 347 buses across 39 routes, carrying around 2.3 million passengers a month.</p>
+<p>The electric fleet represents the most significant change to the service since its Phase 2A expansion began, and positions the city as the first in South Africa to operate locally built electric buses at scale.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Public Charging in South Africa: Practical Planning for the Road</title>
         <author>
@@ -115,7 +157,7 @@
             <![CDATA[
                     <p><img src="https://evnews.co.za/media/posts/24/Cape-Town-Taxis.jpg" class="type:primaryImage" alt="Minibus Taxis Western Cape" /></p>
                 <p class="dropcap"><span style="font-weight: 400;">A new study published in </span><i></i><a href="https://www.nature.com/natsustain/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow"><i><span style="font-weight: 400;">Nature Sustainability</span></i><span style="font-weight: 400;"> </span></a><span style="font-weight: 400;">suggests that electrifying Cape Town's minibus taxi fleet is possible. But only if the right charging infrastructure is put in place.</span></p>
-<p><span style="font-weight: 400;">Minibus taxis are the lifeblood of public transport in South Africa. More than 300,000 of them carry around 11 million passengers every day. In Cape Town alone, taxis account for 67% of all public transport trips, serving roughly 830,000 passengers daily. </span></p>
+<p><span style="font-weight: 400;">Minibus taxis are the lifeblood of <a href="https://evnews.co.za/tags/public-transport/">public transport</a> in South Africa. More than 300,000 of them carry around 11 million passengers every day. In Cape Town alone, taxis account for 67% of all public transport trips, serving roughly 830,000 passengers daily. </span></p>
 <p><span style="font-weight: 400;">Most of these passengers live in historically marginalised communities, far from economic centres, and depend on taxis as their only realistic transport option.</span></p>
 <p><span style="font-weight: 400;">Researchers from Stellenbosch University used tracking data from 671 minibus taxis participating in the <a href="https://evnews.co.za/Blue Dot Taxi System Western Cape.pdf">Western Cape Government's BlueDot programme</a> to assess whether electric vehicles could realistically replace the current petrol and diesel fleet. </span></p>
 <p><span style="font-weight: 400;">The BlueDot programme fitted taxis with GPS trackers to monitor driving behaviour and reward safe driving. This gave the researchers an unusually detailed, real-world dataset to work with (covering around 12,000 vehicle-days of operation).</span></p>
@@ -545,95 +587,6 @@
 <p class="first:mt-1.5!">The C5 SHS is available in four solid colours — Bloodstone Red, Carbon Crystal Black, Khaki White, and Phantom Grey — as well as two dual-tone options pairing Carbon Crystal Black with either Aerial Silver or Khaki White.</p>
 <figure class="post__image"><img decoding="async" loading="lazy"  src="https://evnews.co.za/media/posts/16/1800DSC02741.jpg" alt="" width="1800" height="1200" sizes="(max-width: 48em) 100vw, 768px" srcset="https://evnews.co.za/media/posts/16/responsive/1800DSC02741-xs.webp 300w ,https://evnews.co.za/media/posts/16/responsive/1800DSC02741-sm.webp 480w ,https://evnews.co.za/media/posts/16/responsive/1800DSC02741-md.webp 768w ,https://evnews.co.za/media/posts/16/responsive/1800DSC02741-lg.webp 1024w ,https://evnews.co.za/media/posts/16/responsive/1800DSC02741-xl.webp 1360w ,https://evnews.co.za/media/posts/16/responsive/1800DSC02741-2xl.webp 1600w"></figure>
 <p class="first:mt-1.5!">The C5 SHS is priced at R479,900, with an introductory price of R469,900 for the first month. The purchase price includes a five-year/75,000 km service plan, a five-year/150,000 km factory warranty, and a 10-year/one-million km engine warranty linked to the first owner. The model is available at OMODA and JAECOO dealerships from 8 April 2026.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Electric Mobility A Shield Against Global Volatility</title>
-        <author>
-            <name>Tristan Wiggill</name>
-        </author>
-        <link href="https://evnews.co.za/electric-mobility-a-shield-against-global-volatility/"/>
-        <id>https://evnews.co.za/electric-mobility-a-shield-against-global-volatility/</id>
-        <media:content url="https://evnews.co.za/media/posts/10/Electric-Mobility.webp" medium="image" />
-            <category term="Opinion"/>
-
-        <updated>2026-04-03T12:45:36+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://evnews.co.za/media/posts/10/Electric-Mobility.webp" alt="woman charges her electric vehicle" />
-                    In the 1970s South Africans faced strict fuel rationing, 80km/h speed limits, and dry weekends where not a drop of petrol could be bought. Conflict in the Middle-East back then was a stark lesson in&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://evnews.co.za/media/posts/10/Electric-Mobility.webp" class="type:primaryImage" alt="woman charges her electric vehicle" /></p>
-                <p><!-- wp:paragraph --></p>
-<p class="dropcap">In the 1970s South Africans faced strict fuel rationing, 80km/h speed limits, and dry weekends where not a drop of petrol could be bought. </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Conflict in the Middle-East back then was a stark lesson in how vulnerable a nation becomes when its transport and logistics are tethered to a foreign fossil fuel supply. Fast forward to 2026, and the geopolitical landscape feels eerily familiar. </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>As tensions flare again in the Middle East, the global energy market is once more leaning into unpredictability. The fundamental difference is that today, viable alternatives exist.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:heading {"level":3} --></p>
-<h3 class="wp-block-heading">The Fragility of the Status Quo</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>As a net energy importer, South Africa remains dangerously exposed. The country currently imports nearly 80% of its oil. </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>When international markets shift, inflation spikes, transport costs soar, and the price of everyday goods rises because the trucks moving them are burning expensive, imported fuel.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The country is arguably more dependent on energy today than it was fifty years ago, and the traditional fuel sources underpinning that dependence are subject to forces entirely beyond its control.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:heading {"level":3} --></p>
-<h3 class="wp-block-heading">The 18-Gigawatt Silver Lining</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Whilst the global oil market remains a wildcard, South Africa's domestic energy landscape is quietly undergoing a revolution. </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>By the end of 2025, private sector renewable energy projects had reached a significant 18-gigawatt milestone, with solar accounting for over 12.5 gigawatts of that capacity.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>This is fundamentally about energy sovereignty. Every kilowatt-hour generated by a South African solar panel to power an electric vehicle is a rand that remains within our borders rather than flowing abroad to pay for foreign oil. </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The capacity to fuel our own vehicles with domestically generated electricity is well within reach.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:heading {"level":3} --></p>
-<h3 class="wp-block-heading">Learning from the First Movers</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Bold blueprints already exist elsewhere. </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>In early 2024, Ethiopia became the first country in the world to ban the importation of fossil fuel-powered vehicles, motivated by the steady drain on its foreign currency reserves. </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>By pivoting to domestically sourced electricity, Ethiopia is securing its energy future whilst nurturing a local EV manufacturing base.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>In South Africa, the maturity of the EV market and an expanding public charging infrastructure signal that the experimental phase is behind us. Consumers and businesses are already realising the benefits of lower maintenance and operating costs, along with greater long-term financial predictability.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Furthermore, there is a strong argument that <a href="https://evnews.co.za/the-case-for-evs-runs-deeper-than-fuel-price/">the case for EVs runs deeper than fuel price</a>.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:heading {"level":3} --></p>
-<h3 class="wp-block-heading">The Path Forward</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>The ongoing conflict in the Middle East represents a systemic risk to supply chains and economic growth across the globe. South Africa's exposure to international energy disruptions is a structural vulnerability that demands a structural response.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The transition to electric mobility offers that response. </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>It provides a sustainable way to move people and goods whilst creating the kind of stable, predictable environment that attracts investor confidence. Rapid adoption is the priority. The goal is to generate our own energy security rather than import the instability of foreign markets.</p>
-<p><!-- /wp:paragraph --></p>
             ]]>
         </content>
     </entry>
