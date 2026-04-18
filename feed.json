@@ -10,6 +10,26 @@
     },
     "items": [
         {
+            "id": "https://evnews.co.za/evs-and-the-road-use-charge-question/",
+            "url": "https://evnews.co.za/evs-and-the-road-use-charge-question/",
+            "title": "EVs and the fuel levy question",
+            "summary": "South Africa's roads are funded largely through the fuel levy — a tax built into the price of every litre of petrol or diesel sold. The more fuel you buy, the more you contribute. It&hellip;",
+            "content_html": "<p class=\"first:mt-1.5! dropcap\">South Africa's roads are funded largely through the fuel levy — a tax built into the price of every litre of petrol or diesel sold. The more fuel you buy, the more you contribute. It is a simple system, and for decades it has worked reasonably well.</p>\n<p class=\"first:mt-1.5!\">But battery electric vehicles (BEVs) do not use these fuels. They charge from the grid, and in doing so, they avoid the fuel levy entirely. As more South Africans switch to BEVs, the amount collected through the fuel levy will shrink — even though the roads those BEVs drive on still need to be built, maintained and repaired.</p>\n<p class=\"first:mt-1.5!\">This is the funding gap that transport planners and economists are increasingly worried about.</p>\n<h4>Fuel levy figures tell the story</h4>\n<p class=\"first:mt-1.5!\">The general fuel levy has been rising steadily.</p>\n<p>From June 2025, it stood at R4.01 per litre for petrol and R3.85 per litre for diesel. By April 2026, those figures had increased further to R4.29 per litre for petrol and R4.16 cents per litre for diesel. The <a href=\"https://www.raf.co.za/\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"nofollow\">Road Accident Fund</a> levy, which funds compensation for road crash victims, also rose to R2.25 per litre.</p>\n<p class=\"first:mt-1.5!\">A petrol car filling up a 50-litre tank is therefore contributing well over R300 in levies alone, every single time. An EV owner filling the same journey pays none of that.</p>\n<h4>Why a road-use charge makes sense</h4>\n<p class=\"first:mt-1.5!\">The idea behind a road-use charge is straightforward.</p>\n<p>Instead of taxing the fuel a vehicle burns, the government would charge drivers based on how far they travel. The more kilometres you drive, the more you pay. It does not matter whether your vehicle runs on petrol, diesel, hydrogen or electricity — if you use the road, you contribute to its upkeep.</p>\n<p class=\"first:mt-1.5!\">This also addresses a quieter problem that already exists. A fuel-efficient petrol car consuming six litres per 100 km pays far less in fuel levy per kilometre than an older car consuming 11 litres per 100 km. Both vehicles cause similar wear on the road surface, yet one contributes significantly less to road funding. A per-kilometre charge would treat them the same.</p>\n<h4>How it could work in practice</h4>\n<p class=\"first:mt-1.5!\">There are a few ways a road-use charge could be collected.</p>\n<p class=\"first:mt-1.5!\">The simplest approach would be an odometer reading taken at licensing or roadworthy time each year. You declare your kilometres, and a charge is calculated accordingly. It is easy to administer and raises few privacy concerns.</p>\n<p class=\"first:mt-1.5!\">A more sophisticated approach would use telematics or GPS tracking. This would allow charges to vary depending on the type of road used, the time of day, traffic conditions and even the weight of the vehicle. A Western Cape pilot concept has already explored this idea, using route-based pricing to show how detailed such a system could become.</p>\n<p class=\"first:mt-1.5!\">The third option is a flat annual fee added to vehicle licence renewal. This is the easiest to implement, but it treats a driver covering 5 000 km a year the same as one covering 50 000 km — which many would consider unfair.</p>\n<h4>What this means for EV owners</h4>\n<p class=\"first:mt-1.5!\">Lower <a href=\"https://evnews.co.za/tags/running-costs/\">running costs</a> remain one of the strongest arguments for going electric, and that is unlikely to change. A road-use charge, if introduced, would add a new line to the ownership cost — but it would apply to all vehicles, not just BEVs.</p>\n<p class=\"first:mt-1.5!\">The important thing for BEV owners is to follow the debate closely, keep track of annual mileage, and engage when draft proposals are published. The details — how privacy is protected, how rural drivers are treated, how the system is administered — will matter enormously.</p>\n<p class=\"first:mt-1.5!\">How South Africa funds its roads in an electric future is one that government, industry and the public will need to answer together.</p>",
+            "image": "https://evnews.co.za/media/posts/29/Fuel-levy-and-EVs.jpg",
+            "author": {
+                "name": "Tristan Wiggill"
+            },
+            "tags": [
+                   "taxation",
+                   "road-use charge",
+                   "petrol",
+                   "fuel levy",
+                   "diesel"
+            ],
+            "date_published": "2026-04-18T18:11:12+02:00",
+            "date_modified": "2026-04-18T18:27:29+02:00"
+        },
+        {
             "id": "https://evnews.co.za/byd-raises-the-stakes-with-atto-8-launch/",
             "url": "https://evnews.co.za/byd-raises-the-stakes-with-atto-8-launch/",
             "title": "BYD raises the stakes with ATTO 8 launch",
@@ -44,6 +64,7 @@
                 "name": "Tristan Wiggill"
             },
             "tags": [
+                   "taxation",
                    "saam 35",
                    "naamsa",
                    "Tshetlhe Litheko",
@@ -52,7 +73,7 @@
                    "AIDC"
             ],
             "date_published": "2026-04-18T10:10:47+02:00",
-            "date_modified": "2026-04-18T11:08:02+02:00"
+            "date_modified": "2026-04-18T18:29:46+02:00"
         },
         {
             "id": "https://evnews.co.za/cape-town-to-get-sas-first-locally-built-electric-buses/",
@@ -201,22 +222,6 @@
             ],
             "date_published": "2026-04-14T15:34:47+02:00",
             "date_modified": "2026-04-16T15:26:46+02:00"
-        },
-        {
-            "id": "https://evnews.co.za/the-biggest-ev-mistake-south-africans-make-before-buying/",
-            "url": "https://evnews.co.za/the-biggest-ev-mistake-south-africans-make-before-buying/",
-            "title": "The Biggest EV Mistake South Africans Make Before Buying",
-            "summary": "Most people start in the same place when they look at an electric vehicle (EV). They compare range. They look at charging speed. They check the price. That all makes sense. It feels like the&hellip;",
-            "content_html": "<h3> </h3>\n<p class=\"dropcap\">Most people start in the same place when they look at an electric vehicle (EV).</p>\n<p>They compare range.<br>They look at charging speed.<br>They check the price.</p>\n<p>That all makes sense. It feels like the right way to choose a car.</p>\n<p>But there’s one question that matters far more than any of those:</p>\n<p class=\"msg msg--highlight \"><strong><span style=\"color: #169179;\">Where will you charge most of the time?</span></strong></p>\n<hr>\n<h3>Why this matters more than anything else</h3>\n<p>An EV fits into your life differently from a petrol or diesel car. With a petrol car, you drive until you need fuel, then you stop and fill up. It’s a separate activity.</p>\n<p>With an EV, charging becomes part of your routine. It works best when the car charges while it is already parked.</p>\n<p>That usually means:</p>\n<ul>\n<li>At home overnight</li>\n<li>At work during the day</li>\n<li>At places you visit regularly</li>\n</ul>\n<p>If you get this part right, owning an EV feels simple. If you get it wrong, it can feel like a constant effort.</p>\n<hr>\n<h3>The mistake most buyers make</h3>\n<p>Many first-time buyers focus on <a href=\"https://evnews.co.za/public-charging-in-south-africa-practical-planning-for-the-road/\">public charging</a>.</p>\n<p>It’s easy to see why. Public chargers are visible. You notice them at shopping centres, <a href=\"https://evnews.co.za/off-grid-ambition-meets-the-reality-of-fleet-electrification/\">along highways</a>, and in parking areas. They feel like the main solution.</p>\n<p>In practice, they are only part of the picture.</p>\n<p>Public charging is useful for:</p>\n<ul>\n<li>Long trips</li>\n<li>Occasional top-ups</li>\n<li>Situations where you have no other option</li>\n</ul>\n<p>It is not where most people should be doing the majority of their charging.</p>\n<hr>\n<h3>What ownership looks like</h3>\n<p>For most EV owners in South Africa, daily charging happens in quiet moments.</p>\n<p>The car stands overnight at home.<br>It sits in a parking bay at work.<br>It waits while you go about your day.</p>\n<p>Those are the moments where charging fits naturally.</p>\n<p>If your setup allows for this, you stop thinking about charging altogether. It becomes something that happens in the background.</p>\n<hr>\n<h3>The South African reality</h3>\n<p>This is where things become more specific.</p>\n<p>Your living situation plays a big role.</p>\n<ul>\n<li>If you have a garage or a dedicated parking space, home charging is usually straightforward.</li>\n<li>If you live in an estate or complex, you may need permission or adjustments.</li>\n<li>If you rely on street parking, things become more complicated.</li>\n</ul>\n<p>Electricity supply also matters. Load shedding, solar setups, and backup systems can all affect how and when you charge.</p>\n<p>These are everyday realities in South Africa. They shape the ownership experience more than any spec sheet.</p>\n<hr>\n<h3>A better way to think before you buy</h3>\n<p>Before choosing an EV, step back from the numbers for a moment.</p>\n<p>Ask yourself:</p>\n<ul>\n<li>Where does my car spend most of its time parked?</li>\n<li>Is there a practical way to charge it there?</li>\n<li>How often do I drive long distances?</li>\n<li>What will I do if my usual charging option is unavailable?</li>\n</ul>\n<p>These answers will tell you far more than range figures alone.</p>\n<hr>\n<h3>What people often realise later</h3>\n<p>Many new owners only discover this after the car arrives.</p>\n<p>They find that daily driving is easy. Short trips and commuting work well. The car feels smooth and convenient.</p>\n<p>Then they start to notice the gaps:</p>\n<ul>\n<li>Charging takes planning in certain situations</li>\n<li>Public chargers are not always available</li>\n<li>Some locations require apps or setup in advance</li>\n</ul>\n<p>None of this makes EV ownership difficult. It just means the setup matters from the start.</p>\n<hr>\n<h3>The simple takeaway</h3>\n<p>Buying an EV is not only about choosing the right car.</p>\n<p>It is about choosing a setup that fits your life.</p>\n<p>If your home or workplace supports charging, the experience becomes straightforward.<br>If it doesn’t, you will rely more on workarounds.</p>\n<p>That one detail shapes everything that follows.</p>\n<hr>\n<p><em>In the next article, we’ll look at <a href=\"https://evnews.co.za/where-south-africans-charge-their-evs/\">where South Africans charge their EVs</a> day to day, and how different setups change the ownership experience.</em></p>",
-            "image": "https://evnews.co.za/media/posts/19/EV-Charging.jpg",
-            "author": {
-                "name": "Tristan Wiggill"
-            },
-            "tags": [
-                   "EV Ownership"
-            ],
-            "date_published": "2026-04-13T10:19:52+02:00",
-            "date_modified": "2026-04-17T14:04:08+02:00"
         }
     ]
 }
