@@ -3,12 +3,52 @@
     <title>EV NEWS</title>
     <link href="https://evnews.co.za/feed.xml" rel="self" />
     <link href="https://evnews.co.za" />
-    <updated>2026-05-11T18:35:59+08:00</updated>
+    <updated>2026-05-12T07:30:05+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
     <id>https://evnews.co.za</id>
 
+    <entry>
+        <title>Lexus reveals TZ electric SUV</title>
+        <author>
+            <name>Tristan Wiggill</name>
+        </author>
+        <link href="https://evnews.co.za/lexus-reveals-tz-electric-suv/"/>
+        <id>https://evnews.co.za/lexus-reveals-tz-electric-suv/</id>
+        <media:content url="https://evnews.co.za/media/posts/35/Lexus-TZ-EV.jpg" medium="image" />
+            <category term="New Models"/>
+            <category term="Lexus TZ"/>
+            <category term="Lexus"/>
+            <category term="Discover Limitless"/>
+
+        <updated>2026-05-12T07:18:19+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://evnews.co.za/media/posts/35/Lexus-TZ-EV.jpg" alt="Lexus TZ EV" />
+                    Lexus has unveiled the all new TZ, a battery electric three row SUV that the company says is being evaluated for possible introduction to the South African market. Shown globally for the first time, the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://evnews.co.za/media/posts/35/Lexus-TZ-EV.jpg" class="type:primaryImage" alt="Lexus TZ EV" /></p>
+                <p class="first:mt-1.5! dropcap">Lexus has unveiled the all new TZ, a <a href="https://evnews.co.za/tags/battery-electric/">battery electric</a> three row SUV that the company says is being evaluated for possible introduction to the South African market.</p>
+<p class="first:mt-1.5!">Shown globally for the first time, the TZ introduces Lexus’s new Discover Limitless philosophy and a cabin concept it calls the Driving Lounge. The brand is positioning the model as a premium, lounge-like space designed to keep all occupants relaxed and connected, with a focus on refinement and long distance comfort.</p>
+<p class="first:mt-1.5!">Lexus says a newly developed dedicated <a href="https://evnews.co.za/battery-electric-vehicle-bev/">BEV</a> platform contributes to a more open interior layout, supported by a wide panoramic roof and a minimalist design approach.</p>
+<p>The company also claims high levels of cabin quietness, backed by sound management, ambient lighting and premium audio technology intended to create a calmer travel environment.</p>
+<figure class="post__video"><video loading="lazy" width="640" height="320" controls="controls" data-mce-fragment="1">
+<source src="https://www.youtube.com/live/BKB-OoniEVc?si=ZfKmmtPYTM5PNkKg&amp;t=780" /></video></figure>
+<h4>Performance, charging and practical packaging</h4>
+<p class="first:mt-1.5!">Despite its comfort focus, Lexus is pitching the TZ as a strong performer. It uses a dual motor all wheel drive system producing 300 kW, with a claimed 0 to 100 km per hour time of 5.4 seconds.</p>
+<p class="first:mt-1.5!">Charging capability includes rapid DC charging, with a 10 per cent to 80 per cent charge achievable in around 35 minutes. Lexus quotes an estimated driving range of up to 640 km, depending on market specifications.</p>
+<p class="first:mt-1.5!">In size, the TZ measures 5,100 mm in length with a 3,050 mm wheelbase. Cargo capacity ranges from 290 litres to 2,017 litres, while towing capacity is rated at up to 1,500 kg on the EU specification.</p>
+<h4>Design direction and sustainability cues</h4>
+<p class="first:mt-1.5!">The TZ also signals a new design direction for the brand, with a sculpted spindle body, geometric lighting elements and aerodynamic detailing aimed at improving efficiency and range. Lexus says the TZ delivers class leading aerodynamic performance among its SUV line-up.</p>
+<p class="first:mt-1.5!">Inside, the company highlights Forged Bamboo trim crafted from Shikoku bamboo, alongside recycled aluminium and other sustainable materials. Lexus says it has also adopted lower impact manufacturing processes as part of a circular vehicle development strategy.</p>
+<p class="first:mt-1.5!">Lexus cautions that the specifications released are prototype values for a pre production vehicle, with final figures expected to vary by market and grade. Further details on timing will follow should the TZ be confirmed for South Africa.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Geely Introduces E5 Apex Plus EV</title>
         <author>
@@ -26,7 +66,7 @@
             <category term="Geely Auto South Africa"/>
             <category term="EV SUV"/>
 
-        <updated>2026-05-11T18:10:48+08:00</updated>
+        <updated>2026-05-11T12:10:48+02:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://evnews.co.za/media/posts/34/Geely-E5-SUV.jpg" alt="Geely E5 SUV" />
@@ -52,7 +92,7 @@
 <p class="first:mt-1.5!">Geely has sought to strengthen the <a href="https://evnews.co.za/tags/ev-ownership/">ownership</a> proposition with a comprehensive aftersales package. This includes a six year or 150,000 km vehicle warranty, a six year or 120,000 km service plan and an eight year or 200,000 km battery warranty.</p>
 <p>Buyers also receive a wall box charger, an emergency charging cable and a R12,000 charging voucher when financing through Geely Finance.</p>
 <p class="first:mt-1.5!">The company says the E5 Apex Plus is aimed at South African motorists looking to transition to electric mobility with lower <a href="https://evnews.co.za/tags/running-costs/">running costs</a> and reduced maintenance requirements.</p>
-<p>With its combination of range, specification and pricing, the model represents Geely’s latest push into a rapidly developing local EV market.</p>
+<p>With its combination of range, specification and pricing, the model represents Geely’s latest push into a rapidly developing local <a href="https://evnews.co.za/battery-electric-vehicle-bev/">BEV</a> market.</p>
             ]]>
         </content>
     </entry>
@@ -70,7 +110,7 @@
             <category term="fuel levy"/>
             <category term="diesel"/>
 
-        <updated>2026-04-19T00:11:12+08:00</updated>
+        <updated>2026-04-18T18:11:12+02:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://evnews.co.za/media/posts/29/Fuel-levy-and-EVs.jpg" alt="fuelling an ICE vehicle" />
@@ -123,7 +163,7 @@
             <category term="BYD Atto 8"/>
             <category term="BYD Atto"/>
 
-        <updated>2026-04-18T18:08:18+08:00</updated>
+        <updated>2026-04-18T12:08:18+02:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://evnews.co.za/media/posts/28/BYD-Attto-8-launch-SA.jpeg" alt="BYD Ao 8 launch in South Africa" />
@@ -170,7 +210,7 @@
             <category term="Anton Fiets"/>
             <category term="AIDC"/>
 
-        <updated>2026-04-18T16:10:47+08:00</updated>
+        <updated>2026-04-18T10:10:47+02:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://evnews.co.za/media/posts/27/Toyota-Corolla-Cross-Hybrid-XR.jpg" alt="Toyota Corolla Cross Hybrid" />
@@ -224,7 +264,7 @@
             <category term="MyCiTi"/>
             <category term="Cape Town"/>
 
-        <updated>2026-04-17T20:47:59+08:00</updated>
+        <updated>2026-04-17T14:47:59+02:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://evnews.co.za/media/posts/26/MyCiti-Cape-Town-Electric-Bus.jpg" alt="MyCiTi bus" />
@@ -264,7 +304,7 @@
             <category term="GridCars"/>
             <category term="EV Ownership"/>
 
-        <updated>2026-04-17T19:18:13+08:00</updated>
+        <updated>2026-04-17T13:18:13+02:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://evnews.co.za/media/posts/25/Public-EV-charging.jpg" alt="Public EV charging" />
@@ -343,7 +383,7 @@
             <category term="Cape Town"/>
             <category term="BlueDot programme"/>
 
-        <updated>2026-04-17T02:58:05+08:00</updated>
+        <updated>2026-04-16T20:58:05+02:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://evnews.co.za/media/posts/24/Cape-Town-Taxis.jpg" alt="Minibus Taxis Western Cape" />
@@ -394,7 +434,7 @@
             <category term="Carbon Border Adjustment Mechanism"/>
             <category term="CBAM"/>
 
-        <updated>2026-04-16T21:10:37+08:00</updated>
+        <updated>2026-04-16T15:10:37+02:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://evnews.co.za/media/posts/23/SAETA-Policy-to-Power-Report.png" alt="Wind turbines create renewable energy" />
@@ -458,7 +498,7 @@
             <category term="charging"/>
             <category term="EV Ownership"/>
 
-        <updated>2026-04-15T18:54:59+08:00</updated>
+        <updated>2026-04-15T12:54:59+02:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://evnews.co.za/media/posts/22/Home-EV-charging.jpg" alt="home EV charging" />
@@ -518,44 +558,6 @@
 <p>Think through where the car will park at home, whether your workplace has or could have charging, which destinations you visit regularly, and how often you travel long distances. That map will tell you whether EV ownership is likely to feel easy or whether it will require more planning than you are comfortable with.</p>
 <hr>
 <p><em>In the next article, we take a closer look at <a href="https://evnews.co.za/public-charging-in-south-africa-practical-planning-for-the-road/">public charging in South Africa</a> — what the networks look like, what to expect from a real charging stop, and how to plan so that a slow or unavailable charger never catches you off guard.</em></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Jetour expands T-Series range with plug-in hybrid models</title>
-        <author>
-            <name>Tristan Wiggill</name>
-        </author>
-        <link href="https://evnews.co.za/jetour-expands-t-series-range-with-plug-in-hybrid-models/"/>
-        <id>https://evnews.co.za/jetour-expands-t-series-range-with-plug-in-hybrid-models/</id>
-        <media:content url="https://evnews.co.za/media/posts/21/1800JetourT2i-DM3.jpg" medium="image" />
-            <category term="plug-in hybrid"/>
-            <category term="T2 i-DM"/>
-            <category term="T1 i-DM"/>
-            <category term="New Models"/>
-            <category term="Jetour T-Series"/>
-            <category term="Jetour"/>
-
-        <updated>2026-04-15T14:13:48+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://evnews.co.za/media/posts/21/1800JetourT2i-DM3.jpg" alt="Jetour T-Series PHEV" />
-                    Jetour South Africa has launched two plug-in hybrid variants of its T-Series SUV range, marking the brand's first entry into electrified powertrains since arriving in the country in September 2024. The T1 i-DM and T2&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://evnews.co.za/media/posts/21/1800JetourT2i-DM3.jpg" class="type:primaryImage" alt="Jetour T-Series PHEV" /></p>
-                <p class="first:mt-1.5!"><a href="https://www.jetour.co.za/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Jetour South Africa</a> has launched two <a href="https://evnews.co.za/plug-in-hybrid-electric-vehicle-phev/">plug-in hybrid</a> variants of its T-Series SUV range, marking the brand's first entry into electrified powertrains since arriving in the country in September 2024.</p>
-<p class="first:mt-1.5!">The T1 i-DM and T2 i-DM were unveiled at an event held at the SunBet Arena at Time Square in Pretoria. Both models are available immediately through the brand's network of more than 55 dealerships nationwide, priced from R689 900 for the T1 i-DM and R779 900 for the T2 i-DM.</p>
-<p class="first:mt-1.5!">Jetour's South African operation has grown rapidly since its launch, with monthly sales rising from around 400 units in 2024 to more than 1 700 units currently. The T-Series alone has recorded more than 4 587 sales within six months of its introduction, providing a strong foundation for the PHEV expansion.</p>
-<figure class="post__image"><img decoding="async" loading="lazy"  src="https://evnews.co.za/media/posts/21/1800JetourT2i-DM4.jpg" alt="Jetour T-Series PHEV charging" width="1800" height="1200" sizes="(max-width: 48em) 100vw, 768px" srcset="https://evnews.co.za/media/posts/21/responsive/1800JetourT2i-DM4-xs.webp 300w ,https://evnews.co.za/media/posts/21/responsive/1800JetourT2i-DM4-sm.webp 480w ,https://evnews.co.za/media/posts/21/responsive/1800JetourT2i-DM4-md.webp 768w ,https://evnews.co.za/media/posts/21/responsive/1800JetourT2i-DM4-lg.webp 1024w ,https://evnews.co.za/media/posts/21/responsive/1800JetourT2i-DM4-xl.webp 1360w ,https://evnews.co.za/media/posts/21/responsive/1800JetourT2i-DM4-2xl.webp 1600w"></figure>
-<p class="first:mt-1.5!">At the core of the i-DM range is a plug-in hybrid powertrain producing a combined output of up to 265 kW. The system is designed to support both urban commuting and long-distance travel, with a combined driving range of over 1 200 km.</p>
-<p>Pure electric driving is available for everyday use, while DC fast charging enables a 30 to 80% recharge in under 30 minutes. Fuel consumption is rated from as low as 1.1 litres per 100 km.</p>
-<p class="first:mt-1.5!">An intelligent energy management system monitors and optimises performance and efficiency across driving conditions. <a href="https://www.linkedin.com/in/nic-campbell-79a40599/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Nic Campbell</a>, Vice President of Jetour South Africa, said the PHEV models address both environmental and practical considerations.</p>
-<figure class="post__image"><img decoding="async" loading="lazy"  src="https://evnews.co.za/media/posts/21/1800JetourT2i-DMinterior2.jpg" alt="Jetour T-Series PHEV interior" width="1800" height="1200" sizes="(max-width: 48em) 100vw, 768px" srcset="https://evnews.co.za/media/posts/21/responsive/1800JetourT2i-DMinterior2-xs.webp 300w ,https://evnews.co.za/media/posts/21/responsive/1800JetourT2i-DMinterior2-sm.webp 480w ,https://evnews.co.za/media/posts/21/responsive/1800JetourT2i-DMinterior2-md.webp 768w ,https://evnews.co.za/media/posts/21/responsive/1800JetourT2i-DMinterior2-lg.webp 1024w ,https://evnews.co.za/media/posts/21/responsive/1800JetourT2i-DMinterior2-xl.webp 1360w ,https://evnews.co.za/media/posts/21/responsive/1800JetourT2i-DMinterior2-2xl.webp 1600w"></figure>
-<p>"In a market where energy costs continue to fluctuate, PHEVs offer real practical benefit by lowering fuel consumption and helping users reduce their day-to-day running costs," he said.</p>
-<p class="first:mt-1.5!">The i-DM models retain the boxy, rugged styling of the existing T-Series, with signature lighting elements, premium wheel designs and a panoramic glass sunroof. Inside, the cabin features a dual-screen display setup, wireless charging, ambient lighting and an advanced infotainment system.</p>
             ]]>
         </content>
     </entry>
