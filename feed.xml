@@ -3,12 +3,53 @@
     <title>EV NEWS</title>
     <link href="https://evnews.co.za/feed.xml" rel="self" />
     <link href="https://evnews.co.za" />
-    <updated>2026-05-12T07:43:51+02:00</updated>
+    <updated>2026-05-12T13:40:05+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
     <id>https://evnews.co.za</id>
 
+    <entry>
+        <title>EV Buyers Chase Calm, Not Speed</title>
+        <author>
+            <name>Tristan Wiggill</name>
+        </author>
+        <link href="https://evnews.co.za/ev-buyers-chase-calm-not-speed/"/>
+        <id>https://evnews.co.za/ev-buyers-chase-calm-not-speed/</id>
+        <media:content url="https://evnews.co.za/media/posts/36/EV-Serenity.jpg" medium="image" />
+            <category term="White Papers"/>
+            <category term="VW ID.7"/>
+            <category term="The Quiet Electric Car Revolution"/>
+            <category term="EV Association"/>
+            <category term="Castrol"/>
+
+        <updated>2026-05-12T13:22:59+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://evnews.co.za/media/posts/36/EV-Serenity.jpg" alt="Castrol White Paper" />
+                    A new global white paper from lubricants giant Castrol has revealed something that may surprise the motoring world: the single biggest draw of electric vehicles is not performance, not cost savings, and not environmental credentials.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://evnews.co.za/media/posts/36/EV-Serenity.jpg" class="type:primaryImage" alt="Castrol White Paper" /></p>
+                <p class="first:mt-1.5! dropcap">A new global white paper from lubricants giant <a href="https://www.castrol.com/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Castrol</a> has revealed something that may surprise the motoring world: the single biggest draw of electric vehicles is not performance, not cost savings, and not environmental credentials. It is peace and quiet.</p>
+<p class="first:mt-1.5!">The report, titled <em><a href="https://evnews.co.za/Castrol-ON-Road-to-tranquillity.pdf">The Quiet Electric Car Revolution</a></em>, surveyed 3,000 drivers across the United States, Germany and China, and found that tranquillity has emerged as the defining emotional benefit of EV ownership.</p>
+<p>The quiet driving experience ranked as the number-one functional feature that prospective EV buyers are aware of, ahead of instant acceleration and automatic software updates. A remarkable 81% of EV considerers identified it as a top appeal feature, while 83% of existing owners said they were satisfied with it.</p>
+<p class="first:mt-1.5!">Dirk, a 58-year-old driver from Hamburg who owns a VW ID.7, put it simply: "What I like most about my EV is actually the silent driving. It's like floating. I'm past the age where everything needs to go vroom vroom vroom."</p>
+<p class="first:mt-1.5!">For South African drivers navigating the daily grind of urban congestion, pothole stress and long commutes, this finding carries particular resonance. The idea of a car as a sanctuary rather than a source of frustration is a compelling one.</p>
+<h4 class="first:mt-1.5!"><strong>Performance That Puts Drivers in Control</strong></h4>
+<p class="first:mt-1.5!">Beyond the calm, the research found that EV drivers feel a heightened sense of control behind the wheel. A full 84% of owners said they enjoy the feeling of agile cornering and responsive handling, while 78% believe the EV driving experience is superior to that of petrol, diesel or hybrid vehicles.</p>
+<p class="first:mt-1.5!">Elaine Borseth, President of the <a href="https://www.myeva.org/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">EV Association</a> of the US, described it well: "The power, the acceleration, the smoothness, the quietness. It's a superior driving experience. It's different and so much better."</p>
+<p class="first:mt-1.5!">Importantly, drivers are not looking for technology to replace their control. They want it to enhance it. The research found that 80% of respondents agree their car is one of the few places where they feel completely in control, and smart driver-assist features are valued precisely because they support that feeling rather than undermine it.</p>
+<h4 class="first:mt-1.5!"><strong>More Than a Car</strong></h4>
+<p class="first:mt-1.5!">The Castrol study also found that EVs are increasingly seen as expressions of identity. Some 74% of respondents said their car is an important part of who they are, and 44% said their vehicle reflects their passion for new technology.</p>
+<p>EVs are now associated with being future-proof by 74% of respondents, a figure that leaves hybrids at 50% and traditional ICE vehicles trailing at just 34%.</p>
+<p class="first:mt-1.5!">Inside the cabin, the picture is equally compelling. With no engine taking up space, EV interiors offer more room, better design and features such as ambient lighting and massage seats. Some 83% of EV owners report satisfaction with cabin comfort, and 73% view their car as a multipurpose space for work, entertainment and relaxation.</p>
+<p class="first:mt-1.5!">The road ahead for EV's still has its challenges. Range anxiety, charging infrastructure and upfront costs remain real barriers. But if Castrol's research tells us anything, it is that the emotional case for going electric is already being won, one quiet, gliding journey at a time.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lexus reveals TZ electric SUV</title>
         <author>
@@ -482,80 +523,6 @@
 <hr>
 <p><i><span style="font-weight: 400;">Source: <a href="https://evnews.co.za/media/files/Policy-to-power-Ten-actions-to-deliver-green-accessible-and-secure-electricity.pdf">Policy to Power — Ten Actions to Deliver Green, Accessible and Secure Electricity, SAETA/Krutham (2026)</a></span></i></p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Where South Africans Charge Their EVs</title>
-        <author>
-            <name>Tristan Wiggill</name>
-        </author>
-        <link href="https://evnews.co.za/where-south-africans-charge-their-evs/"/>
-        <id>https://evnews.co.za/where-south-africans-charge-their-evs/</id>
-        <media:content url="https://evnews.co.za/media/posts/22/Home-EV-charging.jpg" medium="image" />
-            <category term="charging"/>
-            <category term="EV Ownership"/>
-
-        <updated>2026-04-15T12:54:59+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://evnews.co.za/media/posts/22/Home-EV-charging.jpg" alt="home EV charging" />
-                    There's a common assumption about EV ownership. Most people imagine pulling up to a public charger, plugging in, and waiting. Like a petrol station, but slower. That picture is not wrong exactly. It just isn't&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://evnews.co.za/media/posts/22/Home-EV-charging.jpg" class="type:primaryImage" alt="home EV charging" /></p>
-                <p class="dropcap">There's a common assumption about EV ownership. Most people imagine pulling up to a public charger, plugging in, and waiting. Like a petrol station, but slower. That picture is not wrong exactly. It just isn't the full story.</p>
-<p>In practice, most EV owners in South Africa charge in far quieter, more ordinary moments. And understanding where that happens changes how you think about the whole ownership experience.</p>
-<hr>
-<h3>Home charging: where it usually starts</h3>
-<p>For most owners, home is where the majority of charging happens.</p>
-<p>The reason is simple. The car is already there. It sits overnight, sometimes for eight hours or more. That time is useful. You don't need to go anywhere. You don't need to wait. You plug in before bed and wake up to a full battery.</p>
-<p>This is what makes EV ownership feel easy for people whose home setup supports it. Charging stops being an activity. It becomes something that just happens.</p>
-<hr>
-<h3>What home charging requires</h3>
-<p>You don't need anything complicated to start charging at home. A standard wall socket can work, particularly if your daily mileage is low and the car has a long time to charge overnight. It is slow, but it gets the job done in many situations.</p>
-<p>A wallbox is a step up. It is a dedicated charging unit, usually mounted on a wall in your garage or parking area. It charges faster than a standard socket and is generally the most practical long-term solution for home use.</p>
-<p>A certified electrician needs to install it. Your car may come with one included, or with a voucher towards installation. It is worth checking before you buy.</p>
-<hr>
-<h3>Questions worth asking about your home setup</h3>
-<p>Before assuming home charging will work for you, a few things are worth thinking through. Where does your car park at home? Is there a power source nearby? Will a cable reach comfortably? Is the parking area covered or exposed to weather?</p>
-<p>If you live in an estate or a complex, there may be rules about what you can install. Some body corporates are straightforward about this. Others require applications, approvals, or specific equipment. It is worth finding out early.</p>
-<p>If your home already has solar panels or a battery backup system, home charging can become even more practical. Many owners find they can charge largely from their own solar generation during the day, which reduces both cost and dependence on the grid.</p>
-<hr>
-<h3>Workplace charging: the underrated option</h3>
-<p>After home, the workplace is where many owners find their second most reliable charging opportunity. The logic is the same as home charging. The car is already parked. It sits for hours while you work. That time can be used.</p>
-<p>Workplace charging tends to be slower, similar to home AC charging, but that is fine for a full day of parking. By the time you leave, the battery is topped up. Not every employer offers this yet.</p>
-<p>Some do, either as a staff benefit or through a shared charging bay. If yours does, it is worth factoring into your decision. If yours doesn't, it may be worth raising the conversation.</p>
-<hr>
-<h3>Destination charging: useful when it fits naturally</h3>
-<p>Some places you visit regularly may already have chargers available.</p>
-<p>Shopping centres are the most common example in South Africa. Several major malls now have charging bays in their parking areas. If you spend an hour or two there each week, that time can add meaningful range.</p>
-<p>The same applies to gyms, churches, schools, or anywhere else the car sits for a predictable stretch of time. Destination charging works best when it fits into something you are already doing. It is less useful as a dedicated trip.</p>
-<hr>
-<h3>Public fast charging: for the road, not the routine</h3>
-<p>Public DC fast chargers are the ones you see on highways and at fuel stops along major routes. They charge quickly. A stop of 20 to 40 minutes can add a significant amount of range, depending on the car and the charger.</p>
-<p>They are genuinely useful for long-distance travel. Joburg to Durban, Cape Town to the Garden Route, or any trip that takes you beyond your comfortable daily range.</p>
-<p>They are less suited to everyday use. The cost per kilowatt-hour is generally higher than home charging. The chargers can be occupied. They sometimes require specific apps or payment methods. And in South Africa, reliability is still improving. Public fast charging is a valuable part of the picture. It is just not the foundation.</p>
-<hr>
-<h3>How your living situation shapes everything</h3>
-<p>South Africa has a wide range of living situations, and they affect EV ownership in different ways.</p>
-<p><strong>A freestanding home with a garage</strong> is the most straightforward setup. Home charging is easy to arrange, and the car is protected overnight.</p>
-<p><strong>An estate or security complex</strong> can work well, but it depends on the rules and the available infrastructure. Some estates have already installed shared charging points. Others are still working through the process.</p>
-<p><strong>A flat or apartment</strong> is more challenging. If there is no dedicated parking with power access, home charging may not be possible. In that case, workplace charging or nearby destination chargers become more important.</p>
-<p><strong>A home with solar</strong> adds another layer of flexibility. Charging during the day from your own generation is increasingly common and can make the economics of <a href="https://evnews.co.za/tags/ev-ownership/">EV ownership</a> even more attractive.</p>
-<hr>
-<h3>The pattern that makes ownership easy</h3>
-<p>When you look at how most South African EV owners charge, a pattern emerges.</p>
-<p>Home charging does the heavy lifting. Workplace charging fills in the gaps. Destination charging adds a little extra when it fits naturally. Public fast charging handles the long trips.</p>
-<p>That combination, working together, is what makes daily EV ownership feel unremarkable in the best possible way. The car charges while life happens. You stop thinking about it.</p>
-<hr>
-<h3>What to check before you commit</h3>
-<p>If you are still considering an EV, it is worth mapping out your own charging picture before you buy.</p>
-<p>Think through where the car will park at home, whether your workplace has or could have charging, which destinations you visit regularly, and how often you travel long distances. That map will tell you whether EV ownership is likely to feel easy or whether it will require more planning than you are comfortable with.</p>
-<hr>
-<p><em>In the next article, we take a closer look at <a href="https://evnews.co.za/public-charging-in-south-africa-practical-planning-for-the-road/">public charging in South Africa</a> — what the networks look like, what to expect from a real charging stop, and how to plan so that a slow or unavailable charger never catches you off guard.</em></p>
             ]]>
         </content>
     </entry>
