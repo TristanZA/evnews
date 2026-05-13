@@ -3,12 +3,58 @@
     <title>EV NEWS</title>
     <link href="https://evnews.co.za/feed.xml" rel="self" />
     <link href="https://evnews.co.za" />
-    <updated>2026-05-12T14:03:30+02:00</updated>
+    <updated>2026-05-13T16:45:51+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
     <id>https://evnews.co.za</id>
 
+    <entry>
+        <title>Affordable hybrids and EVs gain traction </title>
+        <author>
+            <name>Tristan Wiggill</name>
+        </author>
+        <link href="https://evnews.co.za/affordable-hybrids-and-evs-gain-traction/"/>
+        <id>https://evnews.co.za/affordable-hybrids-and-evs-gain-traction/</id>
+        <media:content url="https://evnews.co.za/media/posts/37/BYD-Surf.jpeg" medium="image" />
+            <category term="Thembinkosi Pantsi"/>
+            <category term="NADA"/>
+            <category term="Motoring Mavericks"/>
+            <category term="Geely E2"/>
+            <category term="Fulufhelo Mandane"/>
+            <category term="EV Adoption"/>
+            <category term="CNBC Africa"/>
+
+        <updated>2026-05-13T16:10:15+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://evnews.co.za/media/posts/37/BYD-Surf.jpeg" alt="BYD Dolphin Surf EV" />
+                    South Africa’s new energy vehicle market is showing fresh signs of momentum as cheaper models and a widening choice of brands bring battery electric vehicles and plug in hybrids closer to the mainstream. In a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://evnews.co.za/media/posts/37/BYD-Surf.jpeg" class="type:primaryImage" alt="BYD Dolphin Surf EV" /></p>
+                <h3> </h3>
+<p class="dropcap">South Africa’s new energy vehicle market is showing fresh signs of momentum as cheaper models and a widening choice of brands bring <a href="https://evnews.co.za/battery-electric-vehicle-bev/">battery electric vehicles</a> and <a href="https://evnews.co.za/plug-in-hybrid-electric-vehicle-phev/">plug in hybrids</a> closer to the mainstream.</p>
+<p>In a recent <a href="https://www.youtube.com/watch?v=D6T1nKlc7b8" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">CNBC Africa Shifting Gears discussion</a>, Fulufhelo Mandane, Executive: Strategic Partnerships at Absa, said Chinese vehicle makers have become a major force in local sales, with Chinese brands reaching about 36.8% of the market in April 2026 (equivalent to 6,546 units).</p>
+<p>He explained that the shift is being reinforced by household budget pressure, which is pushing car buyers toward sharper pricing and higher specifications.</p>
+<p>“Consumers know they’ve got options,” noted fellow panelist Thembinkosi Pantsi, vice chairperson of the <a href="https://nada.co.za" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">National Automobile Dealerships Association</a> (NADA).</p>
+<p>Pantsi noted that dealerships are responding through multi franchise showrooms that carry traditional brands alongside newer Asian entrants, helping retailers sustain volumes - and jobs - during a difficult economic period.</p>
+<h4>EV entry prices pull adoption forward</h4>
+<p>Mandane linked the rise in NEV interest to improving affordability at the entry level and greater visibility of new brands. He pointed to a lower price point for a newly introduced battery electric model as a catalyst for improving EV sales.</p>
+<p>“Just look at March, where we saw the <a href="https://evnews.co.za/geely-introduces-e2-hatchback/">introduction of the Geely E2</a> at around R340,000,” he pointed out. He added that the (similarly priced) BYD Dolphin Surf supported about 232 units sold in March, a meaningful number in a market where battery electric adoption has previously been slow.</p>
+<p>Growth in plug in hybrids is also emerging as a practical bridge for consumers still wary of charging constraints. Mandane stated that PHEV sales rose by almost 498% year-on-year, moving from 111 units to about 664 units in March. Dealers say this matches a wider pattern in which buyers still value familiar driving habits while looking for relief from <a href="https://evnews.co.za/electric-mobility-a-shield-against-global-volatility/">volatile fuel costs</a>.</p>
+<p>Mandane revealed that pressure at the pumps is already influencing buying decisions. “We are seeing a lot more queries going out in the sales space for new energy vehicles,” he said, adding that finance demand is starting to follow.</p>
+<h4>Policy, skills and finance set the pace</h4>
+<p>Industry participants say the next phase [of NEV adoption] will depend on whether South Africa can expand the enabling ecosystem quickly enough. That includes charging infrastructure, technical skills for servicing high voltage drivetrains, and policy certainty that supports investment.</p>
+<p>Pantsi said the retail industry is preparing for a different operating model as NEV sales grow. “The dealer of the future is going to be different to the dealer of today,” he stated, referring to NADA’s <a href="https://www.motoringmavericks.co.za/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Motoring Mavericks</a> initiative aimed at building skills for the next generation of technicians and dealership staff.</p>
+<p>Banks are also reviewing product design as NEVs change the cost structure of ownership. Mandane intimated that vehicle finance may increasingly need to account for complementary equipment at home and at work.</p>
+<p>“We are looking at - and exploring - different ways in which we can look at supporting the industry,” he said, citing items such as charging stations and inverters as part of the ownership journey.</p>
+<p>For now, South Africa's NEV story is being written at the intersection of price, confidence and support. As more brands deepen their dealer networks and consider local assembly, the next five years are likely to show whether the country's NEV market can move from early adoption to mass market reality.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>EV Buyers Chase Calm, Not Speed</title>
         <author>
@@ -453,76 +499,6 @@
 <p><span style="font-weight: 400;">The researchers recommend that authorities prioritise shared community charging hubs in townships and underserved areas, rather than relying solely on home charging.</span></p>
 <hr>
 <p><i><span style="font-weight: 400;">The research was conducted by M.J. Booysen, B.G. Pretorius and J.T. Sello of Stellenbosch University and was published in Nature Sustainability in April 2026. The full paper is available at</span></i><a href="https://doi.org/10.1038/s41893-026-01808-9"  class="extlink extlink-icon-1"  rel="nofollow"><i><span style="font-weight: 400;"> </span></i><i><span style="font-weight: 400;">https://doi.org/10.1038/s41893-026-01808-9</span></i></a><i><span style="font-weight: 400;">. Licensed under</span></i><a href="http://creativecommons.org/licenses/by-nc-nd/4.0/"  class="extlink extlink-icon-1"  rel="nofollow"><i><span style="font-weight: 400;"> </span></i><i><span style="font-weight: 400;">CC BY-NC-ND 4.0</span></i></a><i><span style="font-weight: 400;">.</span></i></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>SA’s EV Industry Has a Carbon Problem</title>
-        <author>
-            <name>Tristan Wiggill</name>
-        </author>
-        <link href="https://evnews.co.za/sas-ev-industry-has-a-carbon-problem/"/>
-        <id>https://evnews.co.za/sas-ev-industry-has-a-carbon-problem/</id>
-        <media:content url="https://evnews.co.za/media/posts/23/SAETA-Policy-to-Power-Report.png" medium="image" />
-            <category term="tariffs"/>
-            <category term="electricity wheeling"/>
-            <category term="SAETA"/>
-            <category term="NERSA"/>
-            <category term="Industry Reports"/>
-            <category term="European Union"/>
-            <category term="Carbon Border Adjustment Mechanism"/>
-            <category term="CBAM"/>
-
-        <updated>2026-04-16T15:10:37+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://evnews.co.za/media/posts/23/SAETA-Policy-to-Power-Report.png" alt="Wind turbines create renewable energy" />
-                    South Africa's electric vehicle sector is growing. New models are arriving, charging networks are expanding, and government is slowly warming to the idea of a cleaner transport future. But there is a problem that very&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://evnews.co.za/media/posts/23/SAETA-Policy-to-Power-Report.png" class="type:primaryImage" alt="Wind turbines create renewable energy" /></p>
-                <p class="dropcap"><span style="font-weight: 400;">South Africa's electric vehicle sector is growing. <a href="https://evnews.co.za/tags/new-models/">New models are arriving</a>, charging networks are expanding, and government is slowly warming to the idea of a cleaner transport future. </span></p>
-<p><span style="font-weight: 400;">But there is a problem that very few people in the industry are talking about openly. It has nothing to do with range anxiety or charging infrastructure. </span><span style="font-weight: 400;">It has to do with the electricity that powers the factories making these vehicles, and a European trade rule that is already in force.</span></p>
-<h4><strong>What is CBAM?</strong></h4>
-<p><span style="font-weight: 400;">The EU's <a href="https://grokipedia.com/page/Carbon_Border_Adjustment_Mechanism" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Carbon Border Adjustment Mechanism</a> — known as CBAM — is a carbon tariff on goods imported into Europe. </span></p>
-<p><span style="font-weight: 400;">It targets products made using carbon-intensive energy. The idea is straightforward. If a factory in South Africa uses dirty, coal-fired electricity to manufacture goods, and those goods are then sold into the European Union, the buyer in Europe pays a carbon levy on top of the normal import price.</span></p>
-<p><span style="font-weight: 400;">CBAM entered its transitional phase in October 2023. Full enforcement began in January 2026. </span></p>
-<h4><strong>Why this matters for South Africa's EV sector</strong></h4>
-<p><span style="font-weight: 400;">South Africa's automotive industry is one of the country's most important export sectors. It supplies vehicles and components to markets around the world, including Europe. </span></p>
-<p><span style="font-weight: 400;">As the industry shifts towards electric vehicles, both in terms of what it assembles locally and what it exports, the carbon intensity of the electricity used in production becomes a direct business cost.</span></p>
-<p><span style="font-weight: 400;">South Africa generates roughly 80% of its electricity from coal. That makes it one of the most carbon-intensive grids in the world. A vehicle or component assembled here, using grid electricity, carries a significant carbon footprint before it even leaves the factory floor.</span></p>
-<p><span style="font-weight: 400;">Under CBAM, European importers of those goods will need to account for that carbon. They will pay for it. And in a competitive global market, that cost will eventually find its way back to South African manufacturers in the form of lower margins, lost contracts, or pressure to clean up their supply chains.</span></p>
-<h4><strong>The electricity reform connection</strong></h4>
-<p><span style="font-weight: 400;">This is where South Africa's ongoing electricity reform becomes directly relevant to the EV industry, and why a research report published in early 2026 by the <a href="https://www.saeta.org.za/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">South Africa Electricity Traders Association</a> (SAETA) and research firm Krutham deserves attention from anyone working in this space.</span></p>
-<p><span style="font-weight: 400;">The report, titled </span><i><span style="font-weight: 400;">Policy to Power</span></i><span style="font-weight: 400;">, makes the case that electricity market reform is not solely about keeping the lights on. It is also about decarbonisation, competitiveness, and reducing South Africa's exposure to exactly these kinds of carbon trade measures.</span></p>
-<p><span style="font-weight: 400;">The report states clearly that market reform "underpins decarbonisation by enabling rapid investment in renewables, supporting corporate decarbonisation and reducing exposure to carbon border measures such as the EU's Carbon Border Adjustment Mechanism."</span></p>
-<p><span style="font-weight: 400;">In other words, the faster South Africa reforms its electricity market and opens it up to renewable energy, the faster manufacturers can access cleaner power, and the lower their CBAM exposure becomes.</span></p>
-<h4><strong>The wheeling opportunity</strong></h4>
-<p><span style="font-weight: 400;">One of the most practical tools available right now is electricity wheeling. This allows a business to buy renewable energy directly from an independent power producer and have it delivered across the national grid to their facility. </span></p>
-<p><span style="font-weight: 400;">Electricity traders, a relatively new category of licensed market participant in South Africa, play a central role here. They aggregate supply from multiple renewable generators and match it with business customers, including manufacturers. </span></p>
-<p><span style="font-weight: 400;">The SAETA report notes that traders already have a pipeline of 18 gigawatts of renewable energy projects in development. That is a significant pool of clean power waiting to reach businesses that need it.</span></p>
-<p><span style="font-weight: 400;">For an EV manufacturer or component supplier looking to reduce its carbon footprint ahead of European export deadlines, this is not a theoretical option. It is available today, in metros and areas where wheeling frameworks are in place.</span></p>
-<h4><strong>The catch</strong></h4>
-<p><span style="font-weight: 400;">The problem is that access to wheeling is uneven. </span></p>
-<p><span style="font-weight: 400;">Only 10 of South Africa's 257 municipalities have adopted wheeling policies. That means a factory located in the wrong municipality simply cannot access green power through this route, regardless of how much renewable energy is available on the grid.</span></p>
-<p><span style="font-weight: 400;">The SAETA report identifies this as one of the key blockages holding back electricity reform. Municipal distribution reform is listed as one of its ten priority actions. Until more municipalities open their networks to wheeling, the CBAM risk for manufacturers in those areas remains unaddressed.</span></p>
-<h4><strong>What energy-intensive EV firms should be doing</strong></h4>
-<p><span style="font-weight: 400;">The CBAM is not going away. If anything, the EU is likely to expand its scope over time. For South African businesses exporting to Europe, or hoping to, the core issue is how quickly they can adapt.</span></p>
-<p><span style="font-weight: 400;">A few practical starting points:</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><strong>Understand your carbon exposure.</strong><span style="font-weight: 400;"> Map the electricity consumption in your production process and calculate the carbon intensity based on the South African grid average. This is the number that will determine your CBAM liability.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Explore wheeling options.</strong><span style="font-weight: 400;"> If your facility is in a municipality with a wheeling policy, speak to a licensed electricity trader about accessing renewable power. The cost savings and carbon benefits can be significant.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Engage with the reform process.</strong><span style="font-weight: 400;"> Industry bodies, including those representing the automotive and EV sectors, should be actively engaging with <a href="https://www.nersa.org.za/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">NERSA</a> and the Department of Electricity and Energy on trading rules, wheeling frameworks, and the pace of electricity market reform. </span></li>
-</ul>
-<h4><strong>The bigger picture</strong></h4>
-<p><span style="font-weight: 400;">South Africa has a narrow window to get this right. </span></p>
-<p><span style="font-weight: 400;">The SAETA report warns that load shedding could return from 2029 as coal plants retire and demand rises. At the same time, the pressure from CBAM and South Africa's own carbon tax is building. The two forces are converging on the same point: the electricity grid needs to get cleaner, faster.</span></p>
-<p><span style="font-weight: 400;">The risk for the EV industry is that slow reform leaves manufacturers exposed to rising carbon costs on their European exports. The opportunity is that businesses which move early, securing green power through wheeling and traders, will have a genuine competitive advantage over those that wait.</span></p>
-<hr>
-<p><i><span style="font-weight: 400;">Source: <a href="https://evnews.co.za/media/files/Policy-to-power-Ten-actions-to-deliver-green-accessible-and-secure-electricity.pdf">Policy to Power — Ten Actions to Deliver Green, Accessible and Secure Electricity, SAETA/Krutham (2026)</a></span></i></p>
-<p> </p>
             ]]>
         </content>
     </entry>
