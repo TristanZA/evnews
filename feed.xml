@@ -3,12 +3,53 @@
     <title>EV NEWS</title>
     <link href="https://evnews.co.za/feed.xml" rel="self" />
     <link href="https://evnews.co.za" />
-    <updated>2026-05-20T15:44:43+02:00</updated>
+    <updated>2026-05-20T16:23:28+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
     <id>https://evnews.co.za</id>
 
+    <entry>
+        <title>The Economics Of Charging Locations</title>
+        <author>
+            <name>Tristan Wiggill</name>
+        </author>
+        <link href="https://evnews.co.za/the-economics-of-charging-locations/"/>
+        <id>https://evnews.co.za/the-economics-of-charging-locations/</id>
+        <media:content url="https://evnews.co.za/media/posts/45/man-charging-electric-car-by-house.jpg" medium="image" />
+            <category term="public charging"/>
+            <category term="home charging"/>
+            <category term="Workplace charging"/>
+            <category term="IEA"/>
+            <category term="EV charging"/>
+
+        <updated>2026-05-20T16:12:48+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://evnews.co.za/media/posts/45/man-charging-electric-car-by-house.jpg" alt="home EV charging" />
+                    The latest edition of the International Energy Agency's Global EV Outlook has taken a close look at one of the most frequently cited barriers to electric car ownership, namely the question of whether drivers need&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://evnews.co.za/media/posts/45/man-charging-electric-car-by-house.jpg" class="type:primaryImage" alt="home EV charging" /></p>
+                <p class="first:mt-1.5! dropcap">The latest edition of the <a href="https://evnews.co.za/GlobalEVOutlook2026.pdf">International Energy Agency's Global EV Outlook</a> has taken a close look at one of the most frequently cited barriers to electric car ownership, namely the question of whether drivers need access to home charging before they are willing to make the switch.</p>
+<p>The short answer, according to the <a href="https://www.iea.org/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">IEA</a>, is that home charging is highly advantageous, though it remains far from the only viable option.</p>
+<p class="first:mt-1.5!">For drivers who are able to plug in at home overnight, the financial case for going electric is compelling. Home charging typically draws on residential electricity tariffs, which are considerably cheaper than public charging rates.</p>
+<p>In the United States, for example, home charging can save a driver as much as $860 per year in operating costs compared to running a petrol vehicle. In the European Union, that saving sits at around $740, and in China it is roughly $620.</p>
+<p class="first:mt-1.5!">The picture shifts considerably for drivers who rely on public infrastructure. Slow <a href="https://evnews.co.za/tags/public-charging/">public charging</a> can cost up to 150% more than residential electricity, which chips away at the running-cost advantage that makes EVs so attractive. Fast charging, while increasingly convenient, can be so expensive that it wipes out the operational savings altogether.</p>
+<h4>Lessons From The Chinese Market</h4>
+<p class="first:mt-1.5!">The IEA points to China as a striking example of how high <a href="https://evnews.co.za/tags/ev-adoption/">EV adoption rates</a> can be achieved even when home charging access is limited. China now holds the world's largest electric car stock at 44.3 million vehicles, and EV sales account for more than half of all new car sales.</p>
+<p>Despite this, only around 52% of Chinese car owners have access to a home charger. In the European Union, where the electric car stock stands at 12.1 million, that figure rises to 80%, suggesting that home charging access and EV uptake do not always move in lockstep.</p>
+<p class="first:mt-1.5!">Part of the reason for this success is that most drivers simply do not need to charge every single day. The average private car covers between 30 and 70 kilometres daily, which is well within the range of a modern battery electric vehicle. Even taxi drivers, who typically cover between 150 and 250 kilometres per shift, are using only about half the average on-road range of a contemporary EV.</p>
+<p class="first:mt-1.5!">Workplace charging is growing steadily and offers a practical solution for commuters. Public overnight charging and curbside infrastructure are also expanding, alongside semi-private options such as chargers in shopping centre car parks.</p>
+<p>Ultra-fast chargers, capable of delivering enough energy for several days of commuting in a single 20-minute session, are appearing at fuel stations, supermarkets, and retail locations, making them easier to fold into everyday routines.</p>
+<p class="first:mt-1.5!">The IEA argues that governments have a meaningful role to play in making these alternatives more affordable. India and Indonesia already regulate the electricity price applied to public EV charging, helping to keep tariffs closer to residential rates.</p>
+<p>The IEA recommends that other governments consider similar measures, alongside targeted investment in charger deployment near multi-family housing and in underserved communities.</p>
+<p>This message for South African policymakers and EV stakeholders is a timely one. As the country works to grow its own EV market, ensuring that charging access extends beyond those with private garages and dedicated parking will be central to making electric mobility a genuinely inclusive option.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>SA Explores Tax Incentive to Boost EV Uptake</title>
         <author>
@@ -460,44 +501,6 @@
 <p>EVs are now associated with being future-proof by 74% of respondents, a figure that leaves hybrids at 50% and traditional ICE vehicles trailing at just 34%.</p>
 <p class="first:mt-1.5!">Inside the cabin, the picture is equally compelling. With no engine taking up space, EV interiors offer more room, better design and features such as ambient lighting and massage seats. Some 83% of EV owners report satisfaction with cabin comfort, and 73% view their car as a multipurpose space for work, entertainment and relaxation.</p>
 <p class="first:mt-1.5!">The road ahead for EV's still has its challenges. Range anxiety, charging infrastructure and upfront costs remain real barriers. But if Castrol's research tells us anything, it is that the emotional case for going electric is already being won, one quiet, gliding journey at a time.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Lexus reveals TZ electric SUV</title>
-        <author>
-            <name>Tristan Wiggill</name>
-        </author>
-        <link href="https://evnews.co.za/lexus-reveals-tz-electric-suv/"/>
-        <id>https://evnews.co.za/lexus-reveals-tz-electric-suv/</id>
-        <media:content url="https://evnews.co.za/media/posts/35/Lexus-TZ-EV.jpg" medium="image" />
-            <category term="New Models"/>
-            <category term="Lexus TZ"/>
-            <category term="Lexus"/>
-            <category term="Discover Limitless"/>
-
-        <updated>2026-05-12T07:18:19+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://evnews.co.za/media/posts/35/Lexus-TZ-EV.jpg" alt="Lexus TZ EV" />
-                    Lexus has unveiled the all new TZ, a battery electric three row SUV that the company says is being evaluated for possible introduction to the South African market. Shown globally for the first time, the&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://evnews.co.za/media/posts/35/Lexus-TZ-EV.jpg" class="type:primaryImage" alt="Lexus TZ EV" /></p>
-                <p class="first:mt-1.5! dropcap">Lexus has unveiled the all new TZ, a battery electric three row SUV that the company says is being evaluated for possible introduction to the South African market.</p>
-<p class="first:mt-1.5!">Shown globally for the first time, the TZ introduces Lexus’s new Discover Limitless philosophy and a cabin concept it calls the Driving Lounge. The brand is positioning the model as a premium, lounge-like space designed to keep all occupants relaxed and connected, with a focus on refinement and long distance comfort.</p>
-<p class="first:mt-1.5!">Lexus says a newly developed dedicated <a href="https://evnews.co.za/battery-electric-vehicle-bev/">BEV</a> platform contributes to a more open interior layout, supported by a wide panoramic roof and a minimalist design approach.</p>
-<p>The company also claims high levels of cabin quietness, backed by sound management, ambient lighting and premium audio technology intended to create a calmer travel environment.</p>
-<h4>Performance, charging and practical packaging</h4>
-<p class="first:mt-1.5!">Despite its comfort focus, Lexus is pitching the TZ as a strong performer. It uses a dual motor all wheel drive system producing 300 kW, with a claimed 0 to 100 km per hour time of 5.4 seconds.</p>
-<p class="first:mt-1.5!">Charging capability includes rapid DC charging, with a 10 per cent to 80 per cent charge achievable in around 35 minutes. Lexus quotes an estimated driving range of up to 640 km, depending on market specifications.</p>
-<p class="first:mt-1.5!">In size, the TZ measures 5,100 mm in length with a 3,050 mm wheelbase. Cargo capacity ranges from 290 litres to 2,017 litres, while towing capacity is rated at up to 1,500 kg on the EU specification.</p>
-<h4>Design direction and sustainability cues</h4>
-<p class="first:mt-1.5!">The TZ also signals a new design direction for the brand, with a sculpted spindle body, geometric lighting elements and aerodynamic detailing aimed at improving efficiency and range. Lexus says the TZ delivers class leading aerodynamic performance among its SUV line-up.</p>
-<p class="first:mt-1.5!">Inside, the company highlights Forged Bamboo trim crafted from Shikoku bamboo, alongside recycled aluminium and other sustainable materials. Lexus says it has also adopted lower impact manufacturing processes as part of a circular vehicle development strategy.</p>
-<p class="first:mt-1.5!">Lexus cautions that the specifications released are prototype values for a pre production vehicle, with final figures expected to vary by market and grade. Further details on timing will follow should the TZ be confirmed for South Africa.</p>
             ]]>
         </content>
     </entry>
