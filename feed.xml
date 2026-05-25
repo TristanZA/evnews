@@ -3,12 +3,53 @@
     <title>EV NEWS</title>
     <link href="https://evnews.co.za/feed.xml" rel="self" />
     <link href="https://evnews.co.za" />
-    <updated>2026-05-25T11:46:27+02:00</updated>
+    <updated>2026-05-25T15:04:18+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
     <id>https://evnews.co.za</id>
 
+    <entry>
+        <title>Why Chinese EVs Are Cheaper</title>
+        <author>
+            <name>Tristan Wiggill</name>
+        </author>
+        <link href="https://evnews.co.za/why-chinese-evs-are-cheaper/"/>
+        <id>https://evnews.co.za/why-chinese-evs-are-cheaper/</id>
+        <media:content url="https://evnews.co.za/media/posts/47/Geely-E2.jpg" medium="image" />
+            <category term="government subsidies"/>
+            <category term="batteries"/>
+            <category term="Labour costs"/>
+            <category term="Industry Reports"/>
+            <category term="Germany"/>
+            <category term="China"/>
+            <category term=" IEA Global EV Outlook 2026 "/>
+
+        <updated>2026-05-25T14:47:25+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://evnews.co.za/media/posts/47/Geely-E2.jpg" alt="Geely E2" />
+                    Electric vehicles made in China consistently cost far less than comparable models produced elsewhere in the world. A new analysis from the IEA Global EV Outlook 2026 sheds light on the structural reasons behind this&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://evnews.co.za/media/posts/47/Geely-E2.jpg" class="type:primaryImage" alt="Geely E2" /></p>
+                <p class="first:mt-1.5! dropcap">Electric vehicles made in China consistently cost far less than comparable models produced elsewhere in the world. A new analysis from the <a href="https://evnews.co.za/GlobalEVOutlook2026.pdf">IEA Global EV Outlook 2026</a> sheds light on the structural reasons behind this price gap, and the findings are more nuanced than many observers might expect.</p>
+<p class="first:mt-1.5!">The most obvious explanation that comes to mind is government subsidies. China has indeed offered generous financial support to its EV industry over many years, and preferential financing helped Chinese manufacturers scale up their operations faster than their international rivals.</p>
+<p>Subsidies have played a meaningful role in shaping the industry, and analysts acknowledge they likely still matter today. However, the IEA's findings make clear that subsidies alone are far from a sufficient explanation for the pricing gap that exists today.</p>
+<p class="first:mt-1.5!">Labour costs are another contributing factor. Building an internal combustion engine vehicle in China costs roughly 30 per cent less than doing so in Germany, and labour rates in China run approximately three to five times lower than in many advanced economies. This is a genuine advantage, though it too, tells only part of the story.</p>
+<h4 class="first:mt-1.5!"><strong>China's Battery Advantage </strong></h4>
+<p class="first:mt-1.5!">The single most important reason Chinese EVs are cheaper comes down to batteries. Chinese manufacturers have spent well over a decade building deep expertise in every layer of battery production, from raw components and battery cells through to finished battery packs.</p>
+<p>The scale of this accumulated knowledge is reflected in the numbers. Manufacturing efficiency alone accounts for more than 40 per cent of the battery production cost gap between China and Europe.</p>
+<p class="first:mt-1.5!">Chinese producers have also embraced <a href="https://grokipedia.com/page/Lithium_iron_phosphate" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">lithium iron phosphate</a>, or LFP, battery chemistry far more widely than manufacturers elsewhere. LFP batteries avoid the expensive nickel-based materials that remain standard in many Western and South Korean battery designs. The result is a cheaper battery that is also well suited to the mass-market vehicles that dominate Chinese EV sales.</p>
+<p class="first:mt-1.5!">Factory scale reinforces every one of these advantages. Some Chinese EV plants are now capable of producing over one million vehicles per year. At that volume, fixed costs shrink dramatically on a per-vehicle basis, and the efficiency gains that come with repetition compound across the entire supply chain.</p>
+<p class="first:mt-1.5!">One factor that turns out to matter far less than popular perception suggests is energy costs. Electricity and fuel expenses account for only one to four per cent of total vehicle manufacturing costs, meaning that cheaper power in China is a negligible contributor to the price difference.</p>
+<p class="first:mt-1.5!">For South African consumers and fleet buyers watching the <a href="https://evnews.co.za/global-ev-sales-surge-to-20-million-units/">global EV market</a>, the implications are significant. Chinese brands are already arriving on local shores at price points that put EVs within reach of a far wider audience than before.</p>
+<p>The IEA analysis suggests this is not a temporary phenomenon driven by political support alone. The scale, the supply chain integration, the battery leadership and the manufacturing experience that underpin Chinese EV pricing have taken years to build, and closing the gap will require other regions to invest seriously in the same foundations over the long term.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tata Motors Showcases Four Electric Commercial Vehicles</title>
         <author>
@@ -460,52 +501,6 @@
 <p class="first:mt-1.5!">That widening gap makes the next two years consequential for South Africa. The country will host <a href="https://africaemobilityweek.org/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Africa E-Mobility Week</a> in Cape Town in September 2026, a signal in itself that it is regarded as a serious player in the continental conversation — a market with the institutional depth and private sector capacity to anchor the region's most significant e-mobility gathering.</p>
 <p class="first:mt-1.5!">The honest picture is that South Africa's grid constraints are a genuine obstacle requiring serious investment and coordination. The more interesting observation is that those same constraints have accelerated exactly the kind of distributed, integrated energy thinking that the EV transition ultimately depends on.</p>
 <p>The country has been stress-tested in ways that others have not. That experience, if channelled well, is a foundation rather than a liability.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Affordable hybrids and EVs gain traction </title>
-        <author>
-            <name>Tristan Wiggill</name>
-        </author>
-        <link href="https://evnews.co.za/affordable-hybrids-and-evs-gain-traction/"/>
-        <id>https://evnews.co.za/affordable-hybrids-and-evs-gain-traction/</id>
-        <media:content url="https://evnews.co.za/media/posts/37/BYD-Surf.jpeg" medium="image" />
-            <category term="Thembinkosi Pantsi"/>
-            <category term="NADA"/>
-            <category term="Motoring Mavericks"/>
-            <category term="Geely E2"/>
-            <category term="Fulufhelo Mandane"/>
-            <category term="EV Adoption"/>
-            <category term="CNBC Africa"/>
-
-        <updated>2026-05-13T16:10:15+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://evnews.co.za/media/posts/37/BYD-Surf.jpeg" alt="BYD Dolphin Surf EV" />
-                    South Africa’s new energy vehicle (NEV) market is showing fresh signs of momentum as cheaper models and a widening choice of brands bring battery electric vehicles and plug in hybrids closer to the mainstream. In&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://evnews.co.za/media/posts/37/BYD-Surf.jpeg" class="type:primaryImage" alt="BYD Dolphin Surf EV" /></p>
-                <h3> </h3>
-<p class="dropcap">South Africa’s new energy vehicle (NEV) market is showing fresh signs of momentum as cheaper models and a widening choice of brands bring <a href="https://evnews.co.za/battery-electric-vehicle-bev/">battery electric vehicles</a> and <a href="https://evnews.co.za/plug-in-hybrid-electric-vehicle-phev/">plug in hybrids</a> closer to the mainstream.</p>
-<p>In a recent <a href="https://www.youtube.com/watch?v=D6T1nKlc7b8" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">CNBC Africa Shifting Gears discussion</a>, Fulufhelo Mandane, Executive: Strategic Partnerships at Absa, said Chinese vehicle makers have become a major force in local sales, with Chinese brands reaching about 13.6% of the total market in April 2026 (equivalent to 6,546 units).</p>
-<p>He explained that the shift is being reinforced by household budget pressure, which is pushing car buyers toward sharper pricing and higher specifications.</p>
-<p>“Consumers know they’ve got options,” noted fellow panelist Thembinkosi Pantsi, vice chairperson of the <a href="https://nada.co.za" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">National Automobile Dealerships Association</a> (NADA).</p>
-<p>Pantsi noted that dealerships are responding through multi franchise showrooms that carry traditional brands alongside newer Asian entrants, helping retailers sustain volumes - and jobs - during a difficult economic period.</p>
-<h4>EV entry prices pull adoption forward</h4>
-<p>Mandane linked the rise in NEV interest to improving affordability at the entry level and greater visibility of new brands. He pointed to a lower price point for a newly introduced battery electric model as a catalyst for improving EV sales.</p>
-<p>“Just look at March, where we saw the <a href="https://evnews.co.za/geely-introduces-e2-hatchback/">introduction of the Geely E2</a> at around R340,000,” he pointed out. He added that the (similarly priced) BYD Dolphin Surf supported about 232 units sold in March 2026, a meaningful number in a market where battery electric adoption has previously been slow.</p>
-<p>Growth in plug in hybrids is also emerging as a practical bridge for consumers still wary of charging constraints. Mandane stated that PHEV sales rose by almost 498% year-on-year, moving from 111 units to about 664 units in March. Dealers say this matches a wider pattern in which buyers still value familiar driving habits while looking for relief from <a href="https://evnews.co.za/electric-mobility-a-shield-against-global-volatility/">volatile fuel costs</a>.</p>
-<p>Mandane revealed that pressure at the pumps is influencing buying decisions. “We are seeing a lot more queries going out in the sales space for new energy vehicles,” he said, adding that finance demand is starting to follow.</p>
-<h4>Policy, skills and finance set the pace</h4>
-<p>Industry participants say the next phase [of NEV adoption] will depend on whether South Africa can expand the enabling ecosystem quickly enough. That includes charging infrastructure, technical skills for servicing high voltage drivetrains, and policy certainty that supports investment.</p>
-<p>Pantsi said the retail industry is preparing for a different operating model as NEV sales grow. “The dealer of the future is going to be different to the dealer of today,” he stated, referring to NADA’s <a href="https://www.motoringmavericks.co.za/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Motoring Mavericks</a> initiative aimed at building skills for the next generation of technicians and dealership staff.</p>
-<p>Banks are also reviewing product design as NEVs change the cost structure of ownership. Mandane intimated that vehicle finance may increasingly need to account for complementary equipment at home and at work.</p>
-<p>“We are exploring different ways in which we can look at supporting the industry,” he said, citing items such as charging stations and inverters as part of the ownership journey.</p>
-<p>For now, South Africa's NEV story is being written at the intersection of price, confidence and support. As more brands deepen their dealer networks and consider local assembly, the next five years are likely to show whether the country's NEV market can move from early <a href="https://evnews.co.za/tags/ev-adoption/">adoption</a> to mass market reality.</p>
             ]]>
         </content>
     </entry>
