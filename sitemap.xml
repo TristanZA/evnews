@@ -278,6 +278,9 @@
 <loc>https://evnews.co.za/page/4/</loc>
 </url>
 <url>
+<loc>https://evnews.co.za/page/5/</loc>
+</url>
+<url>
 <loc>https://evnews.co.za/petrol-diesel-or-phev-which-makes-financial-sense/</loc>
 <lastmod>2026-04-19T10:02:25+02:00</lastmod>
 <image:image>
@@ -339,6 +342,14 @@
 <image:image>
 <image:loc>https://evnews.co.za/media/posts/49/EV-Components.png</image:loc>
 <image:title><![CDATA[EV components]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://evnews.co.za/sa-nev-sales-rise-315-in-q1/</loc>
+<lastmod>2026-05-27T20:20:48+02:00</lastmod>
+<image:image>
+<image:loc>https://evnews.co.za/media/posts/52/1800JAECOO_teaser_.jpg</image:loc>
+<image:title><![CDATA[JAECOO]]></image:title>
 </image:image>
 </url>
 <url>
@@ -459,10 +470,10 @@
 </url>
 <url>
 <loc>https://evnews.co.za/why-sa-imports-battery-cells/</loc>
-<lastmod>2026-04-19T09:59:12+02:00</lastmod>
+<lastmod>2026-05-27T14:39:59+02:00</lastmod>
 <image:image>
 <image:loc>https://evnews.co.za/media/posts/7/VinFast_VF_8_Li-ion_battery_pack_05.webp</image:loc>
-<image:title><![CDATA[]]></image:title>
+<image:title><![CDATA[electric vehicle battery cell]]></image:title>
 </image:image>
 </url>
 </urlset>
