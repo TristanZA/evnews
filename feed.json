@@ -10,6 +10,27 @@
     },
     "items": [
         {
+            "id": "https://evnews.co.za/volvo-ex30-owner-pays-4c-per-km/",
+            "url": "https://evnews.co.za/volvo-ex30-owner-pays-4c-per-km/",
+            "title": "Volvo EX30 Owner Pays 4c per Km",
+            "summary": "Consumer interest in electric vehicles in South Africa is accelerating, and one of the most compelling data sets presented at a recent industry webinar came not from a research institution but from the personal driving&hellip;",
+            "content_html": "<p class=\"first:mt-1.5! dropcap\">Consumer interest in electric vehicles in South Africa is accelerating, and one of the most compelling data sets presented at a recent industry webinar came not from a research institution but from the personal driving record of a Volvo Cars South Africa customer.</p>\n<p class=\"first:mt-1.5!\">Grant Locke, Managing Director of Volvo Car South Africa, used his address at the EE Business Intelligence webinar in May to share <a href=\"https://evnews.co.za/Ptresentaation-Grant-Locke.pdf\">two years of granular charging data</a> from a customer's Volvo EX30, offering private motorists an unusually transparent window into the real cost of everyday electric vehicle ownership in South Africa.</p>\n<p class=\"first:mt-1.5!\">Over a period from March 2024 to March 2026, the customer covered 28,744 kilometres across 188 charging sessions, consuming a total of 4,991 kilowatt-hours of energy. Of those sessions, 179 drew on excess home solar generation or free workplace charging. Just nine sessions were paid for, with total charging costs over the full two-year period amounting to a mere R970.</p>\n<p class=\"first:mt-1.5!\">\"The average cost per kilometre for an EV charging at home or at work, assuming 90 percent or more of charging off excess home solar, works out at around four cents per kilometre,\" Locke told the audience.</p>\n<p class=\"first:mt-1.5!\">By comparison, the same distance driven in a petrol vehicle consuming 7.5 litres per 100 kilometres at R22.40 per litre would have cost an estimated R48,277 in fuel. After deducting the EX30's total charging bill of R970, Locke calculated that the motorist's vehicle had avoided approximately R47,307 in fuel costs over those two years.</p>\n<p class=\"first:mt-1.5!\">Locke's data showed that the EX30 produced a blended emissions intensity of around 106 grams of CO2 per kilometre, against a petrol equivalent of 237.5 grams per kilometre when accounting for fuel extraction and refining. The net result was approximately 3,777 kilograms of CO2 avoided across the two-year period, representing a reduction of roughly 55 percent against a comparable petrol vehicle.</p>\n<h4 class=\"first:mt-1.5!\"><strong>Consumer interest is tracking the numbers</strong></h4>\n<p class=\"first:mt-1.5!\">Locke supported the financial case with evidence of rising consumer attention. Google search data for electric car-related keywords in South Africa showed a search index of 37 in the first half of the measured period, rising to 65 in the second half, pointing to a near-doubling of online interest over twelve months. Traffic to the Volvocars.com/za website told a similar story, with BEV product page sessions overtaking petrol model sessions in March and April 2026 for the first time.</p>\n<p class=\"first:mt-1.5!\">On the question of total cost of ownership, Locke acknowledged that South Africa had not yet reached the straightforward position seen in some mature markets. The International Energy Agency's <a href=\"https://evnews.co.za/GlobalEVOutlook2026.pdf\">Global EV Outlook 2026</a> states that electric cars often carry a lower total cost of ownership than ICE vehicles over a vehicle lifetime.</p>\n<p>In South Africa, Locke said the picture remained more nuanced. Purchase prices for EVs remain higher than their petrol equivalents, partly as a result of import duties. Operating and maintenance costs are clearly lower, while the residual value question is still developing as the secondhand market matures. Tyre costs and insurance premiums were flagged as areas where EVs may carry a marginal disadvantage at present.</p>\n<h4 class=\"first:mt-1.5!\"><strong>Public charging infrastructure is improving rapidly</strong></h4>\n<p class=\"first:mt-1.5!\">Locke also presented data on <a href=\"https://evnews.co.za/public-charging-in-south-africa-practical-planning-for-the-road/\">public charging</a> progress that will reassure private motorists considering longer journeys. Major highway corridors including the N1, N2 and N3 now have charge points spaced within approximately 300 kilometres. In Johannesburg, Cape Town and Durban, a public charge point can be located within 20 kilometres.</p>\n<p class=\"first:mt-1.5!\">Charging speeds are advancing quickly as well. Locke described a first-hand test conducted on 21 May 2026 at the Zero Carbon Charge station at Three Towers on the N3, where a Volvo ES90 charged from 9 percent to 79 percent in just over 20 minutes, achieving a peak charging speed of 321 kilowatts. The session delivered approximately 67 kilowatt-hours and added around 400 kilometres of range.</p>\n<p class=\"first:mt-1.5!\">Rubicon's network data showed that total public charging sessions doubled in 2024 relative to 2023, with early 2026 figures already running 64 percent ahead of the same period last year.</p>\n<p class=\"first:mt-1.5!\">Looking beyond the individual ownership experience, Locke pointed to the emerging capability of bidirectional charging as a development that could fundamentally reshape the relationship between electric vehicles and the home energy system, allowing owners to power appliances, back up the home during outages, and in time, feed surplus energy back into the grid.</p>",
+            "image": "https://evnews.co.za/media/posts/51/Volvo-EX30-4c-per-km.jpg",
+            "author": {
+                "name": "Tristan Wiggill"
+            },
+            "tags": [
+                   "running costs",
+                   "Volvo EX30",
+                   "Volvo ES90",
+                   "Volvo Cars South Africa",
+                   "Volvo",
+                   "EE Business Intelligence"
+            ],
+            "date_published": "2026-05-27T13:32:22+02:00",
+            "date_modified": "2026-05-27T13:44:51+02:00"
+        },
+        {
             "id": "https://evnews.co.za/electric-fleets-cross-competitive-cost-thresholds/",
             "url": "https://evnews.co.za/electric-fleets-cross-competitive-cost-thresholds/",
             "title": "Electric Fleets Cross Competitive Cost Thresholds",
@@ -196,29 +217,6 @@
             ],
             "date_published": "2026-05-20T11:18:05+02:00",
             "date_modified": "2026-05-20T20:54:35+02:00"
-        },
-        {
-            "id": "https://evnews.co.za/hino-adds-hybrid-trucks-to-kinto/",
-            "url": "https://evnews.co.za/hino-adds-hybrid-trucks-to-kinto/",
-            "title": "Hino adds hybrid trucks to Kinto",
-            "summary": "Hino South Africa has launched a limited batch of diesel-electric hybrid trucks locally, with the first vehicles already entering service through Namlog at the Toyota Africa Parts Centre in Ekurhuleni. The company says it is&hellip;",
-            "content_html": "<p class=\"first:mt-1.5! dropcap\">Hino South Africa has launched a limited batch of diesel-electric hybrid trucks locally, with the first vehicles already entering service through <a href=\"https://www.namlog.co.za/\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"nofollow\">Namlog</a> at the Toyota Africa Parts Centre in Ekurhuleni.</p>\n<p class=\"first:mt-1.5!\">The company says it is initially importing 32 hybrid models in its 300 Series range, with eight already in the country. Three are currently in operation and a further five will join the fleet soon, while the remaining 24 units will be distributed to major fleet operators.</p>\n<p class=\"first:mt-1.5!\">The trucks will be offered through Toyota’s <a href=\"https://www.kinto-mobility.com/\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"nofollow\">international Kinto subscription model</a>, which bundles the vehicle, servicing and maintenance into a single monthly payment. Hino says the system is designed to simplify fleet management, while Kinto Protect offers optional comprehensive insurance for fleet operators.</p>\n<p class=\"first:mt-1.5!\">Hino says the 300 Series hybrids have been delivering fuel savings of between 15% and 30%, depending on the type of operation. At a time of <a href=\"https://evnews.co.za/the-case-for-evs-runs-deeper-than-fuel-price/\">high diesel prices</a> and mounting pressure on transport operators to reduce emissions, that could make hybrids an increasingly attractive option for urban and regional delivery fleets.</p>\n<p class=\"first:mt-1.5!\">The launch also highlights a pragmatic route to lower-emission freight transport in South Africa. While battery-electric trucks remain part of the global conversation, diesel-electric hybrids can cut fuel use and carbon emissions without requiring charging infrastructure or major operational changes.</p>\n<p class=\"first:mt-1.5!\">Hino says the hybrid rollout forms part of its broader multi-pathway energy strategy. The company has also revealed that a prototype dual-fuel truck using diesel and hydrogen will be previewed in South Africa next month.</p>",
-            "image": "https://evnews.co.za/media/posts/41/HINONAMPO2026.jpg",
-            "author": {
-                "name": "Tristan Wiggill"
-            },
-            "tags": [
-                   "dual-fuel",
-                   "diesel-electric hybrid trucks",
-                   "Trucks",
-                   "Toyota Africa Parts Centre",
-                   "Namlog",
-                   "Kinto Protect",
-                   "Kinto",
-                   "Hino"
-            ],
-            "date_published": "2026-05-19T08:35:40+02:00",
-            "date_modified": "2026-05-19T08:43:49+02:00"
         }
     ]
 }
