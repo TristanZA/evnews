@@ -10,6 +10,30 @@
     },
     "items": [
         {
+            "id": "https://evnews.co.za/ev-adoption-yet-to-add-up/",
+            "url": "https://evnews.co.za/ev-adoption-yet-to-add-up/",
+            "title": "Maths Behind EV Adoption Questioned",
+            "summary": "South Africa's electric vehicle (EV) charging infrastructure is improving and the appetite for EV's among fleet operators is genuine. And yet, for the overwhelming majority of South African motorists and logistics companies, the business case&hellip;",
+            "content_html": "<p class=\"dropcap\">South Africa's electric vehicle (EV) charging infrastructure is improving and the appetite for EV's among fleet operators is genuine.</p>\n<p>And yet, for the overwhelming majority of South African motorists and logistics companies, the business case for <a href=\"https://evnews.co.za/battery-electric-vehicle-bev/\">battery electric vehicles</a> remains stubbornly difficult to close.</p>\n<p>That was the clear-eyed assessment from a recent <a href=\"https://www.isuzu.co.za/\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"nofollow\">Isuzu Motors South Africa</a> webinar, in which company president Billy Tom and industry policy expert Justin Barnes examined where new energy vehicles realistically stand in a market shaped by high interest rates, <a href=\"https://evnews.co.za/electric-mobility-a-shield-against-global-volatility/\">volatile fuel costs</a> and an underdeveloped public charging network.</p>\n<p>\"Charging infrastructure is a necessary condition. I don't think it's a sufficient condition,\" Barnes noted. The challenge with battery technology, he argued, runs deeper than whether a driver can find a <a href=\"https://evnews.co.za/off-grid-ambition-meets-the-reality-of-fleet-electrification/\">charge point between Johannesburg and Durban</a>.</p>\n<p>The economics simply do not pencil out for most buyers without government support. \"Quite bluntly, I can find very few instances where it makes sense to have a battery electric motor car in South Africa. If there are subsidies, that might change the equation. But at the moment, you've got to care deeply about the environment and have deep pockets to justify battery electric over an ICE equivalent.\"</p>\n<p>The United States experience reinforces his point. Much of Tesla's early momentum was built on a federal subsidy of around $7,500. Buyers who took that deal were, in many cases, making a rational financial decision rather than an environmental one.</p>\n<p>Without comparable fiscal support in South Africa, the <a href=\"https://evnews.co.za/why-evs-are-expensive-in-south-africa/\">premium attached to an electric vehicle</a> is difficult to absorb in a market where affordability pressures have been severe for several years running.</p>\n<h4>The commercial case is more promising, but complexity runs deep</h4>\n<p>If the passenger-vehicle numbers are discouraging, the <a href=\"https://evnews.co.za/electric-fleets-cross-competitive-cost-thresholds/\">commercial picture is more nuanced.</a> </p>\n<p>Tom said that some of his bakery-sector customers have been pushing for compressed natural gas trucks, partly because they operate CNG in their production facilities and can refuel on site, and partly because of the environmental benefits over diesel.</p>\n<p>Dual-fuel configurations, running CNG alongside diesel, are currently operating in certain fleets. He did, however, concede that battery-electric trucks have also generated genuine interest. \"Two years ago we had a road show where we showed our first battery-electric trucks and tried to gauge appetite from the customers. They've been very keen,\" Tom said.</p>\n<p>That enthusiasm, though, runs into hard physical and financial constraints. Battery weight is a significant issue for freight operators. On a vehicle travelling from Durban to Johannesburg, a heavy battery pack can mean losing a tonne and a half of payload capacity over a 600-kilometre run.</p>\n<p>Barnes added that the weight problem reshapes the entire commercial use case. An electric bus running a fixed urban route with a light load can work exceptionally well. But the moment it carries a heavy or variable load over long distances, the battery's energy draw changes its application entirely.</p>\n<p>Ultra-fast chargers, capable of recharging in 12 to 15 minutes, could compensate for some of this, but the technology and infrastructure investment required remains substantial.</p>\n<p>Tom put the operator's dilemma plainly. \"If I'm going to run an electric truck, do I have enough infrastructure from Durban to Joburg where I can fill up my truck? If I don't have, what's the point of doing it?\"</p>\n<p>There is also the residual value question, which fleet owners in South Africa take extremely seriously. Tom noted that commercial buyers want certainty about what a battery truck will be worth after three years of service, and that answer is still not available with confidence.</p>\n<p>The picture that emerged from the discussion is of a transition that is inevitable in direction, uncertain in timing, and highly dependent on policy support that South Africa has yet to provide.</p>",
+            "image": "https://evnews.co.za/media/posts/55/EV-Adoption.jpeg",
+            "author": {
+                "name": "Tristan Wiggill"
+            },
+            "tags": [
+                   "electric truck",
+                   "dual-fuel",
+                   "diesel",
+                   "Tesla",
+                   "Justin Barnes",
+                   "Isuzu Motors South Africa",
+                   "EV Adoption",
+                   "CNG",
+                   "Billy Tom"
+            ],
+            "date_published": "2026-05-29T19:56:30+02:00",
+            "date_modified": "2026-05-29T20:09:16+02:00"
+        },
+        {
             "id": "https://evnews.co.za/icaur-v23-brings-retro-flair-to-sa-roads/",
             "url": "https://evnews.co.za/icaur-v23-brings-retro-flair-to-sa-roads/",
             "title": "iCAUR V23 Brings Retro Flair to SA Roads",
@@ -204,26 +228,6 @@
             ],
             "date_published": "2026-05-25T11:20:54+02:00",
             "date_modified": "2026-05-25T11:46:27+02:00"
-        },
-        {
-            "id": "https://evnews.co.za/the-economics-of-charging-locations/",
-            "url": "https://evnews.co.za/the-economics-of-charging-locations/",
-            "title": "The Economics Of Charging Locations",
-            "summary": "The latest edition of the International Energy Agency's Global EV Outlook has taken a close look at one of the most frequently cited barriers to electric car ownership, namely the question of whether drivers need&hellip;",
-            "content_html": "<p class=\"first:mt-1.5! dropcap\">The latest edition of the <a href=\"https://evnews.co.za/GlobalEVOutlook2026.pdf\">International Energy Agency's Global EV Outlook</a> has taken a close look at one of the most frequently cited barriers to electric car ownership, namely the question of whether drivers need access to home charging before they are willing to make the switch.</p>\n<p>The short answer, according to the <a href=\"https://www.iea.org/\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"nofollow\">IEA</a>, is that home charging is highly advantageous, though it remains far from the only viable option.</p>\n<p class=\"first:mt-1.5!\">For drivers who are able to plug in at home overnight, the financial case for going electric is compelling. Home charging typically draws on residential electricity tariffs, which are considerably cheaper than public charging rates.</p>\n<p>In the United States, for example, home charging can save a driver as much as $860 per year in operating costs compared to running a petrol vehicle. In the European Union, that saving sits at around $740, and in China it is roughly $620.</p>\n<p class=\"first:mt-1.5!\">The picture shifts considerably for drivers who rely on public infrastructure. Slow <a href=\"https://evnews.co.za/tags/public-charging/\">public charging</a> can cost up to 150% more than residential electricity, which chips away at the running-cost advantage that makes EVs so attractive. Fast charging, while increasingly convenient, can be so expensive that it wipes out the operational savings altogether.</p>\n<h4>Lessons From The Chinese Market</h4>\n<p class=\"first:mt-1.5!\">The IEA points to China as a striking example of how high <a href=\"https://evnews.co.za/tags/ev-adoption/\">EV adoption rates</a> can be achieved even when home charging access is limited. China now holds the world's largest electric car stock at 44.3 million vehicles, and EV sales account for more than half of all new car sales.</p>\n<p>Despite this, only around 52% of Chinese car owners have access to a home charger. In the European Union, where the electric car stock stands at 12.1 million, that figure rises to 80%, suggesting that home charging access and EV uptake do not always move in lockstep.</p>\n<p class=\"first:mt-1.5!\">Part of the reason for this success is that most drivers simply do not need to charge every single day. The average private car covers between 30 and 70 kilometres daily, which is well within the range of a modern battery electric vehicle. Even taxi drivers, who typically cover between 150 and 250 kilometres per shift, are using only about half the average on-road range of a contemporary EV.</p>\n<p class=\"first:mt-1.5!\">Workplace charging is growing steadily and offers a practical solution for commuters. Public overnight charging and curbside infrastructure are also expanding, alongside semi-private options such as chargers in shopping centre car parks.</p>\n<p>Ultra-fast chargers, capable of delivering enough energy for several days of commuting in a single 20-minute session, are appearing at fuel stations, supermarkets, and retail locations, making them easier to fold into everyday routines.</p>\n<p class=\"first:mt-1.5!\">The IEA argues that governments have a meaningful role to play in making these alternatives more affordable. India and Indonesia already regulate the electricity price applied to public EV charging, helping to keep tariffs closer to residential rates.</p>\n<p>The IEA recommends that other governments consider similar measures, alongside targeted investment in charger deployment near multi-family housing and in underserved communities.</p>\n<p>This message for South African policymakers and EV stakeholders is a timely one. As the country works to grow its own EV market, ensuring that charging access extends beyond those with private garages and dedicated parking will be central to making electric mobility a genuinely inclusive option.</p>",
-            "image": "https://evnews.co.za/media/posts/45/man-charging-electric-car-by-house.jpg",
-            "author": {
-                "name": "Tristan Wiggill"
-            },
-            "tags": [
-                   "public charging",
-                   "home charging",
-                   "Workplace charging",
-                   "IEA",
-                   "EV charging"
-            ],
-            "date_published": "2026-05-20T16:12:48+02:00",
-            "date_modified": "2026-05-20T16:23:28+02:00"
         }
     ]
 }
