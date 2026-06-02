@@ -3,12 +3,53 @@
     <title>EV NEWS</title>
     <link href="https://evnews.co.za/feed.xml" rel="self" />
     <link href="https://evnews.co.za" />
-    <updated>2026-05-30T20:43:27+02:00</updated>
+    <updated>2026-06-02T16:15:09+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
     <id>https://evnews.co.za</id>
 
+    <entry>
+        <title>NEV Interest Rises As Running Costs Bite</title>
+        <author>
+            <name>Tristan Wiggill</name>
+        </author>
+        <link href="https://evnews.co.za/nev-interest-rises-as-running-costs-bite/"/>
+        <id>https://evnews.co.za/nev-interest-rises-as-running-costs-bite/</id>
+        <media:content url="https://evnews.co.za/media/posts/57/Lexus_NX_450h.jpg" medium="image" />
+            <category term="repo rate"/>
+            <category term="prime lending rate"/>
+            <category term="naamsa"/>
+            <category term="Ryan Seele"/>
+            <category term="NEV sales"/>
+            <category term="NADA"/>
+            <category term="Brandon Cohen"/>
+
+        <updated>2026-06-02T15:56:57+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://evnews.co.za/media/posts/57/Lexus_NX_450h.jpg" alt="Lexus 450h+" />
+                    South Africa’s new vehicle market delivered its strongest May performance in 13 years, with growing interest in new energy vehicles becoming a more visible feature of consumer behaviour as buyers weigh fuel prices, finance costs&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://evnews.co.za/media/posts/57/Lexus_NX_450h.jpg" class="type:primaryImage" alt="Lexus 450h+" /></p>
+                <p class="dropcap">South Africa’s new vehicle market delivered its strongest May performance in 13 years, with growing interest in <a href="https://evnews.co.za/tags/new-energy-vehicle/">new energy vehicles</a> becoming a more visible feature of consumer behaviour as buyers weigh fuel prices, finance costs and long-term ownership value.</p>
+<p>Figures released by <a href="https://naamsa.net" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">naamsa | the Automotive Business Council</a>, show aggregate domestic new vehicle sales rose to 51,071 units in May 2026, up 12.8% from 45,287 units a year earlier. Passenger vehicle sales increased 16.3% to 36,871 units, while light commercial vehicle sales edged up 2.5% to 11,251 units.</p>
+<p>The headline numbers point to a market that remains resilient despite a tougher economic backdrop. naamsa said consumers were increasingly focused on affordability, financing costs, fuel efficiency, safety and ownership value. That shift is helping to lift interest in <a href="https://evnews.co.za/hybrid-electric-vehicles-hevs/">hybrid</a>, <a href="https://evnews.co.za/plug-in-hybrid-electric-vehicle-phev/">plug-in hybrid</a> and <a href="https://evnews.co.za/battery-electric-vehicle-bev/">battery electric vehicles</a>, even though NEVs still account for a small share of total vehicle sales.</p>
+<p>The clearest sign of momentum came in naamsa’s comment that NEV sales for April 2026 gained 120% compared with the same period last year. While the organisation did not provide a May NEV unit total in its release, the signal from dealers is that enquiries are rising as fuel costs and higher interest rates reshape purchase decisions.</p>
+<h4>Buyers ask sharper questions about electric options</h4>
+<p>Ryan Seele, an executive member of the <a href="https://nada.co.za" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">National Automobile Dealers Association</a> (NADA), said showroom conversations were changing.</p>
+<p>“We are seeing a noticeable increase in discussions around hybrid and electric vehicles. Consumers are asking more informed questions about fuel savings, operating costs and long-term ownership benefits. While new energy vehicles still account for a relatively small portion of overall sales, awareness and consideration levels have increased significantly,” Seele said.</p>
+<p>That interest is being driven less by novelty and more by household economics. Fuel prices rose sharply during April and May, contributing to headline inflation of 4.0% year-on-year in April. The SA Reserve Bank then raised the repo rate by 25 basis points to 7.0%, lifting the prime lending rate to 10.50%.</p>
+<p>For a market where most vehicles are financed, the higher cost of credit has placed monthly repayments under greater scrutiny. naamsa warned that higher fuel and finance costs create a dual affordability challenge, particularly for first-time buyers, small businesses and transport operators.</p>
+<p>Brandon Cohen, national chairperson of NADA, said buyers were taking more time before committing. “Customers are spending more time evaluating options, comparing finance offers and considering total cost of ownership before committing to a purchase. Dealers are having to work harder to convert enquiries into sales, but the demand is there,” Cohen said.</p>
+<p>This is the space in which NEVs may gain further traction. Hybrids offer a familiar ownership proposition with lower fuel consumption, while electric vehicles appeal to buyers able to <a href="https://evnews.co.za/the-economics-of-charging-locations/">manage charging</a> at home or at work. Price remains a constraint, with dealers reporting strongest demand below R500,000.</p>
+<p>For now, NEVs remain a developing part of the market rather than a volume driver. As South Africans become more cost-conscious, fuel-efficient and electrified products are moving from the margins of consideration into mainstream buyer conversations.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Maths Behind EV Adoption Questioned</title>
         <author>
@@ -413,50 +454,6 @@
 <p class="first:mt-1.5!">One factor that turns out to matter far less than popular perception suggests is energy costs. Electricity and fuel expenses account for only one to four per cent of total vehicle manufacturing costs, meaning that cheaper power in China is a negligible contributor to the price difference.</p>
 <p class="first:mt-1.5!">For South African consumers and fleet buyers watching the <a href="https://evnews.co.za/global-ev-sales-surge-to-20-million-units/">global EV market</a>, the implications are significant. Chinese brands are already arriving on local shores at price points that put EVs within reach of a far wider audience than before.</p>
 <p>The IEA analysis suggests this is not a temporary phenomenon driven by political support alone. The scale, the supply chain integration, the battery leadership and the manufacturing experience that underpin Chinese EV pricing have taken years to build, and closing the gap will require other regions to invest seriously in the same foundations over the long term.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tata Motors Showcases Four Electric Commercial Vehicles</title>
-        <author>
-            <name>Tristan Wiggill</name>
-        </author>
-        <link href="https://evnews.co.za/tata-motors-showcases-four-electric-commercial-vehicles/"/>
-        <id>https://evnews.co.za/tata-motors-showcases-four-electric-commercial-vehicles/</id>
-        <media:content url="https://evnews.co.za/media/posts/46/Tata-Motors.jpg" medium="image" />
-            <category term="Ultra E.9"/>
-            <category term="Trucks"/>
-            <category term="Tata Motors"/>
-            <category term="Prima E28.K"/>
-            <category term="Intra EV"/>
-            <category term="Asif Shamim"/>
-            <category term="Ace Pro EV"/>
-
-        <updated>2026-05-25T11:20:54+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://evnews.co.za/media/posts/46/Tata-Motors.jpg" alt="Tata Motors" />
-                    Tata Motors has placed electric mobility at the heart of its African commercial vehicle strategy, displaying four zero-emission vehicles at a showcase event in Cape Town. The event, held on 22 May, brought together 11&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://evnews.co.za/media/posts/46/Tata-Motors.jpg" class="type:primaryImage" alt="Tata Motors" /></p>
-                <p class="first:mt-1.5! dropcap">Tata Motors has placed electric mobility at the heart of its African commercial vehicle strategy, displaying four zero-emission vehicles at a showcase event in <a href="https://evnews.co.za/tags/cape-town/">Cape Town</a>.</p>
-<p class="first:mt-1.5!">The event, held on 22 May, brought together 11 vehicles in total, but it was the electric quartet that drew the most attention, spanning last-mile delivery, urban freight, heavy cargo and mining applications.</p>
-<p>The breadth of the electric line-up signals that Tata is moving well beyond pilot programmes and is positioning <a href="https://evnews.co.za/battery-electric-vehicle-bev/">battery-electric vehicles</a> as practical, revenue-generating tools for African fleet operators.</p>
-<h4 class="first:mt-1.5!"><strong>From city streets to construction sites</strong></h4>
-<p class="first:mt-1.5!">The smallest of the four electric vehicles, the Ace Pro EV, is a compact mini-truck designed for last-mile urban deliveries. Built around low total cost of ownership, it is aimed at operators seeking an affordable entry point into electric commercial transport without sacrificing the practicality needed for high-frequency city routes.</p>
-<p class="first:mt-1.5!">Stepping up in size and payload, the Intra EV is a fully electric pickup engineered for more demanding urban cargo duty cycles. Tata says the vehicle offers extended range alongside improved earning potential, making it a credible option for operators running dense urban delivery schedules where fuel and maintenance costs weigh heavily on margins.</p>
-<p class="first:mt-1.5!">The Ultra E.9 rounds out the urban freight offering. A light electric truck designed for intra-city logistics, it prioritises manoeuvrability and quiet operation, attributes that are increasingly valued as cities across Africa introduce stricter emissions and noise regulations in commercial zones.</p>
-<figure class="post__image align-center"><img decoding="async" loading="lazy"  src="https://evnews.co.za/media/posts/46/Ultra-E.9.jpg" alt="Tata Ultra E9" width="640" height="427" sizes="(max-width: 48em) 100vw, 768px" srcset="https://evnews.co.za/media/posts/46/responsive/Ultra-E.9-xs.webp 300w ,https://evnews.co.za/media/posts/46/responsive/Ultra-E.9-sm.webp 480w ,https://evnews.co.za/media/posts/46/responsive/Ultra-E.9-md.webp 768w ,https://evnews.co.za/media/posts/46/responsive/Ultra-E.9-lg.webp 1024w ,https://evnews.co.za/media/posts/46/responsive/Ultra-E.9-xl.webp 1360w ,https://evnews.co.za/media/posts/46/responsive/Ultra-E.9-2xl.webp 1600w"></figure>
-<h4 class="first:mt-1.5!"><strong>Heavy-duty ambitions</strong></h4>
-<p class="first:mt-1.5!">The most significant vehicle in the electric line-up is arguably the Prima E28.K, a robust electric tipper aimed squarely at mining and construction fleets.</p>
-<p>Fitted with a high-torque drivetrain and engineered for heavy-duty endurance, the Prima E28.K is Tata's clearest statement yet that zero-emission commercial transport is ready to move beyond urban logistics and into some of the most demanding operating environments on the continent.</p>
-<p class="first:mt-1.5!">Tata says the vehicle offers faster turnaround cycles than diesel equivalents, a claim that will resonate with mining operators for whom downtime carries significant financial consequences. The ability to decarbonise extraction and earthmoving operations without sacrificing productivity has been a long-standing challenge for the sector, and the Prima E28.K is positioned as a meaningful step towards resolving it.</p>
-<figure class="post__image align-center"><img decoding="async" loading="lazy"  src="https://evnews.co.za/media/posts/46/Prima-E.28K.jpg" alt="Tata Prima E.28K" width="640" height="427" sizes="(max-width: 48em) 100vw, 768px" srcset="https://evnews.co.za/media/posts/46/responsive/Prima-E.28K-xs.webp 300w ,https://evnews.co.za/media/posts/46/responsive/Prima-E.28K-sm.webp 480w ,https://evnews.co.za/media/posts/46/responsive/Prima-E.28K-md.webp 768w ,https://evnews.co.za/media/posts/46/responsive/Prima-E.28K-lg.webp 1024w ,https://evnews.co.za/media/posts/46/responsive/Prima-E.28K-xl.webp 1360w ,https://evnews.co.za/media/posts/46/responsive/Prima-E.28K-2xl.webp 1600w"></figure>
-<p class="first:mt-1.5!">Asif Shamim, Head of International Business at <a href="https://www.tatamotors.com/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Tata Motors</a>, noted that the portfolio was designed with real-world African conditions in mind. "The portfolio presented here demonstrates the range of platforms and technologies we are building across segments, including electric vehicles, tailored to different use cases and operating conditions," he said.</p>
-<p class="first:mt-1.5!">With seven assembly facilities across Africa and more than 320 service touchpoints on the continent, Tata Motors has the infrastructure to support <a href="https://evnews.co.za/tags/ev-adoption/">electric vehicle adoption</a> at scale, a factor that has historically held back EV uptake in markets where after-sales support remains limited.</p>
             ]]>
         </content>
     </entry>
