@@ -3,7 +3,7 @@
     <title>EV NEWS</title>
     <link href="https://evnews.co.za/feed.xml" rel="self" />
     <link href="https://evnews.co.za" />
-    <updated>2026-06-03T11:26:18+02:00</updated>
+    <updated>2026-06-03T16:52:36+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
@@ -259,7 +259,7 @@
             <![CDATA[
                     <p><img src="https://evnews.co.za/media/posts/51/Volvo-EX30-4c-per-km.jpg" class="type:primaryImage" alt="Volvo EX30 " /></p>
                 <p class="first:mt-1.5! dropcap">Consumer interest in electric vehicles in South Africa is accelerating, and one of the most compelling data sets presented at a recent industry webinar came not from a research institution but from the personal driving record of a Volvo Cars South Africa customer.</p>
-<p class="first:mt-1.5!">Grant Locke, Managing Director of Volvo Car South Africa, used his address at the EE Business Intelligence webinar in May to share <a href="https://evnews.co.za/Ptresentaation-Grant-Locke.pdf">two years of granular charging data</a> from a customer's Volvo EX30, offering private motorists an unusually transparent window into the real cost of everyday electric vehicle ownership in South Africa.</p>
+<p class="first:mt-1.5!">Grant Locke, Managing Director of Volvo Car South Africa, used his address at the EE Business Intelligence *webinar in May to share <a href="https://evnews.co.za/Ptresentaation-Grant-Locke.pdf">two years of granular charging data</a> from a customer's Volvo EX30, offering private motorists an unusually transparent window into the real cost of everyday electric vehicle ownership in South Africa.</p>
 <p class="first:mt-1.5!">Over a period from March 2024 to March 2026, the customer covered 28,744 kilometres across 188 charging sessions, consuming a total of 4,991 kilowatt-hours of energy. Of those sessions, 179 drew on excess home solar generation or free workplace charging. Just nine sessions were paid for, with total charging costs over the full two-year period amounting to a mere R970.</p>
 <p class="first:mt-1.5!">"The average cost per kilometre for an EV charging at home or at work, assuming 90 percent or more of charging off excess home solar, works out at around four cents per kilometre," Locke told the audience.</p>
 <p class="first:mt-1.5!">By comparison, the same distance driven in a petrol vehicle consuming 7.5 litres per 100 kilometres at R22.40 per litre would have cost an estimated R48,277 in fuel. After deducting the EX30's total charging bill of R970, Locke calculated that the motorist's vehicle had avoided approximately R47,307 in fuel costs over those two years.</p>
@@ -273,6 +273,7 @@
 <p class="first:mt-1.5!">Charging speeds are advancing quickly as well. Locke described a first-hand test conducted on 21 May 2026 at the Zero Carbon Charge station at Three Towers on the N3, where a Volvo ES90 charged from 9 percent to 79 percent in just over 20 minutes, achieving a peak charging speed of 321 kilowatts. The session delivered approximately 67 kilowatt-hours and added around 400 kilometres of range.</p>
 <p class="first:mt-1.5!">Rubicon's network data showed that total public charging sessions doubled in 2024 relative to 2023, with early 2026 figures already running 64 percent ahead of the same period last year.</p>
 <p class="first:mt-1.5!">Looking beyond the individual ownership experience, Locke pointed to the emerging capability of bidirectional charging as a development that could fundamentally reshape the relationship between electric vehicles and the home energy system, allowing owners to power appliances, back up the home during outages, and in time, feed surplus energy back into the grid.</p>
+<p class="msg msg--highlight ">*Numerous questions were posed by attendees during the session. You can read those questions <span style="font-weight: 400;">— </span>with their respective answers <span style="font-weight: 400;">— </span><a href="https://evnews.co.za/evs-your-questions-answered/">on this page</a>.   </p>
             ]]>
         </content>
     </entry>
@@ -303,7 +304,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://evnews.co.za/media/posts/50/2.png" class="type:primaryImage" alt="Maxus eDeliver3 electric panel van" /></p>
-                <p class="dropcap"><span style="font-weight: 400;">South African commercial fleet operators that have made the switch to electric vehicles are recording measurable savings across fuel, maintenance and total cost of ownership (TCO), according to data presented by Ndia Magadagela, CEO of <a href="https://everlectric.co.za/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Everlectric</a>, at a sector webinar hosted by EE Business Intelligence.</span></p>
+                <p class="dropcap"><span style="font-weight: 400;">South African commercial fleet operators that have made the switch to electric vehicles are recording measurable savings across fuel, maintenance and total cost of ownership (TCO), according to data presented by Ndia Magadagela, CEO of <a href="https://everlectric.co.za/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">Everlectric</a>, at a sector *webinar hosted by EE Business Intelligence.</span></p>
 <p><span style="font-weight: 400;">Drawing on a portfolio of real-world fleet deployments spanning more than 12.5 million kilometres of electric driving across clients including DSV, FedEx, Woolworths, Vodacom and Sanitech, <a href="https://evnews.co.za/Presentation-Ndia-Magadagela.pdf">Magadagela's presentation</a> made a detailed financial case for commercial <a href="https://evnews.co.za/off-grid-ambition-meets-the-reality-of-fleet-electrification/">fleet electrification</a> that goes well beyond environmental aspiration.</span></p>
 <p><span style="font-weight: 400;">"Commercial fleets have done the maths," Magadagela told the audience of roughly 850 registered delegates. "They have seen that there are clearer economics. It is cheaper to run. And they have seen that it does not affect their downtime."</span></p>
 <p><span style="font-weight: 400;">Those fleets have collectively saved an estimated 2.75 million kilograms of carbon emissions since deployment began, with Everlectric reporting 100 percent operational availability and zero mechanical downtime across its managed fleet.</span></p>
@@ -328,6 +329,7 @@
 <p><span style="font-weight: 400;">The approach has proved particularly effective for hub-and-spoke operations, where vehicles return to a central depot for overnight or scheduled charging and predictable daily range requirements reduce range anxiety as a practical concern.</span></p>
 <p><span style="font-weight: 400;">Magadagela said the availability of electric commercial vehicle models had improved considerably in recent years, spanning panel vans, trucks and passenger transport, reducing a barrier that would have prevented fleet adoption only a few years ago. </span></p>
 <p><span style="font-weight: 400;">South Africa's advance in distributed solar generation had further reinforced the business case, with co-located solar and charging infrastructure now common across early adopter sites.</span></p>
+<p class="msg msg--highlight ">*Numerous questions were posed by attendees during the session. You can read those questions <span style="font-weight: 400;">— </span>with their respective answers <span style="font-weight: 400;">— </span><a href="https://evnews.co.za/evs-your-questions-answered/">on this page</a>.   </p>
             ]]>
         </content>
     </entry>
