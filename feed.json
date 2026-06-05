@@ -10,6 +10,36 @@
     },
     "items": [
         {
+            "id": "https://evnews.co.za/sas-courier-sector-drives-ev-transition/",
+            "url": "https://evnews.co.za/sas-courier-sector-drives-ev-transition/",
+            "title": "SA&#x27;s Courier Sector Drives EV Transition",
+            "summary": "For an industry shaped by tight margins, rising fuel costs and a growing e-commerce boom, South Africa's express parcel and courier sector is emerging as one of the more active adopters of electric vehicle technology.",
+            "content_html": "<p class=\"first:mt-1.5!\"> </p>\n<p class=\"first:mt-1.5! dropcap\">For an industry shaped by tight margins, rising fuel costs and a growing e-commerce boom, South Africa's express parcel and courier sector is emerging as one of the more active adopters of electric vehicle technology.</p>\n<p>Discussion at the <a href=\"https://www.saepa.org.za/\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"nofollow\">South African Express Parcel Association</a>'s June 2026 Transport Forum revealed an industry that is moving beyond scepticism and beginning to build real operational experience with EVs, even as significant commercial and regulatory hurdles remain.</p>\n<p class=\"first:mt-1.5!\">The conversation was prompted by a question from the floor about the drive towards EV adoption and the practical challenges of implementation in a South African context. The responses from senior figures at two of the world's largest logistics companies painted an honest and instructive picture.</p>\n<p class=\"first:mt-1.5!\">Herman Fenta, managing director of <a href=\"https://www.dhl.com/za-en/home.html\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"nofollow\">DHL Express South Africa</a>, framed the motivation clearly. \"There is a drive to have EV vehicles,\" he said. \"The challenges are the economic viability, the trade-offs between the initial cost and the investment, and then the payback and the return. You have to find that balance between the investment and investing in the future, making sure that as an industry we are more green.\"</p>\n<p class=\"first:mt-1.5!\">Nelson Tixer of <a href=\"https://www.fedex.com/en-za/home.html\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"nofollow\">FedEx</a> offered some of the most concrete data to emerge from the discussion. FedEx globally has around eight per cent of its fleet running on electric, but South Africa's operation is substantially ahead of that figure.</p>\n<p>\"If you look at SA, we run 40% of our PTD EVs,\" he said. He acknowledged that the capital cost of electric vehicles remains a challenge against conventional petrol or diesel alternatives, but pointed to fuel price trends as a growing counterweight. \"Where the fuel price is trending, that trend makes these options more viable as we move along.\"</p>\n<h4 class=\"first:mt-1.5!\"><strong>Reliability, charging and the road ahead</strong></h4>\n<p class=\"first:mt-1.5!\">On reliability, Tixer was broadly positive. \"Maintenance cost is extremely low,\" he said. Charging infrastructure, which has historically been one of the principal concerns for fleet operators considering electrification, is improving through sophisticated remote management systems.</p>\n<p>\"Some of these service providers who sell these vehicles have got a network of charging stations and they can actually see when your vehicle is potentially in danger of running out of charge. They will reroute those vehicles to the closest station, give it a 30-minute charge, and it negates that risk.\"</p>\n<p class=\"first:mt-1.5!\">Leisel de Wet of the <a href=\"https://www.ascea.co.za/\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"nofollow\">Africa Supply Chain Excellence Awards</a> brought considerable enthusiasm to the subject. She noted that the EV transition is advancing faster than many in the industry expect, with battery technology becoming lighter, fast-charging infrastructure expanding, and battery-swapping solutions beginning to emerge.</p>\n<p>\"We are on the doorstep of this transition,\" she said. \"It is maximum five years from now. So it is exciting times.\" She also pointed to the importance of evaluating total cost of ownership rather than focusing solely on the upfront purchase price, a calculation she suggested increasingly favours electric for last-mile applications.</p>\n<p class=\"first:mt-1.5!\">The panel agreed that short-haul and last-mile delivery represents the most immediate opportunity for <a href=\"https://evnews.co.za/tags/ev-adoption/\">EV adoption</a> in South Africa, where predictable routes, depot-based charging and relatively constrained daily distances align well with current battery range capabilities. Long-distance and heavy freight applications face additional regulatory constraints that still need to be resolved at a legislative level.</p>\n<p class=\"first:mt-1.5!\">Route optimisation was raised as a related and complementary tool. Dedric Stopforth of <a href=\"https://www.internetexpress.co.za/\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"nofollow\">Internet Express</a> pointed out that significant carbon reductions are achievable through smarter routing alone, even before full electrification is in place. \"We use a company called Loop and they give us a carbon report on how much we have saved just by route optimisation itself,\" he said.</p>\n<p class=\"first:mt-1.5!\">The human dimension of EV transition also drew attention. Industry participants noted that electrification demands new skills at every level of fleet operations, from drivers adapting to high-torque, near-silent vehicles to workshop technicians managing high-voltage systems for the first time.</p>\n<p>A comprehensive EV management framework is reportedly being developed by the University of Stellenbosch and the <a href=\"https://teta.org.za/\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"nofollow\">Transport Education and Training Authority</a>, expected to cover roles from transitional strategists through to drivers and workshop staff.</p>",
+            "image": "https://evnews.co.za/media/posts/60/close-up-delivery-person-giving-parcel-client.jpg",
+            "author": {
+                "name": "Tristan Wiggill"
+            },
+            "tags": [
+                   "e-commerce",
+                   "courier",
+                   "University of Stellenbosch",
+                   "Transport Forum",
+                   "Transport Education and Training Authority",
+                   "South African Express Parcel Association",
+                   "Nelson Tixer",
+                   "Leisel de Wet",
+                   "Internet Express",
+                   "Herman Fenta",
+                   "FedEx",
+                   "EV Adoption",
+                   "Dedric Stopforth",
+                   "DHL Express South Africa",
+                   "Africa Supply Chain Excellence Awards"
+            ],
+            "date_published": "2026-06-05T13:10:58+02:00",
+            "date_modified": "2026-06-05T13:25:21+02:00"
+        },
+        {
             "id": "https://evnews.co.za/europes-ev-progress-undermined-by-dirty-hybrid-secret/",
             "url": "https://evnews.co.za/europes-ev-progress-undermined-by-dirty-hybrid-secret/",
             "title": "Europe&#x27;s EV Progress Undermined By Dirty Hybrid Secret",
@@ -207,27 +237,6 @@
             ],
             "date_published": "2026-05-26T17:03:45+02:00",
             "date_modified": "2026-05-26T17:22:15+02:00"
-        },
-        {
-            "id": "https://evnews.co.za/sa-gets-dedicated-voice-for-electric-mobility/",
-            "url": "https://evnews.co.za/sa-gets-dedicated-voice-for-electric-mobility/",
-            "title": "SA Gets Dedicated Voice for Electric Mobility",
-            "summary": "The establishment of the South African Electric Mobility Association (SAEMA) marks a turning point for an industry that has long operated without a unified representative body. South Africa's electric vehicle sector has taken a significant&hellip;",
-            "content_html": "<p> </p>\n<p class=\"msg msg--highlight \"><em>The establishment of the South African Electric Mobility Association (SAEMA) marks a turning point for an industry that has long operated without a unified representative body.</em></p>\n<p class=\"dropcap\">South Africa's electric vehicle sector has taken a significant step towards organised advocacy with the formal announcement of the <span style=\"color: #169179;\"><strong>South African Electric Mobility Association</strong></span>, a body that will represent the full spectrum of stakeholders driving the country's transition to electric mobility.</p>\n<p>The announcement was made by Hiten Parmar, executive director of <a href=\"https://www.linkedin.com/company/electricmission/\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"nofollow\">The Electric Mission</a>, during a high-profile webinar hosted by EE Business Intelligence on 26 May 2026.</p>\n<p>Speaking to an audience of approximately 850 registered delegates drawn from government, industry and the broader automotive sector, Parmar described the association as a direct response to a gap that has hindered South Africa's ability to develop and advance a coherent electric mobility agenda.</p>\n<p>\"We are proud to announce the establishment of the <span style=\"color: #169179;\"><strong>South African Electric Mobility Association</strong></span>, which is really focusing on community engagement of all operators and actors in this space and really becoming a voice for advancing the electric mobility industry in South Africa,\" Parmar said.</p>\n<p>The association will bring together manufacturers, importers, installers, charge point operators and EV drivers under a single representative structure, giving the sector the kind of organised presence that industries such as solar PV have used to engage policymakers and shape regulatory outcomes.</p>\n<p>During the webinar, Parmar presented data showing that South Africa's battery electric vehicle stock, when corrected to include import data from the South African Revenue Service alongside national registration figures, stands at approximately 7,900 passenger units.</p>\n<p>That figure is materially higher than the 4,502 units reflected in official registration data, pointing to a measurement gap that a properly resourced industry body is well placed to address.</p>\n<h4><strong>A critical moment for policy</strong></h4>\n<p>The association's establishment comes at a pivotal moment for South Africa's EV policy environment. Parmar noted that the government signalled a 150% tax rebate on manufacturing incentives for <a href=\"https://evnews.co.za/battery-electric-vehicle-bev/\">battery electric</a> and fuel cell electric vehicles in March 2026, a development the sector has been watching closely as a potential catalyst for local production.</p>\n<p>South Africa's automotive manufacturing sector produced 618,000 units in 2025, the overwhelming majority of them destined for export markets in the EU and the UK. Both markets are moving towards zero emission vehicle requirements within defined timelines, creating an urgent commercial imperative for South Africa to align its manufacturing incentives accordingly. Without that alignment, the country's century-old automotive industry risks losing access to its primary export destinations.</p>\n<p>Parmar was direct about the scale of the challenge. South Africa is tracking behind comparable developing nations in <a href=\"https://evnews.co.za/tags/ev-adoption/\">EV adoption</a>, and the absence of a unified industry voice has made coherent engagement with government on demand-side and supply-side policy mechanisms more difficult than it needs to be.</p>\n<p>The <span style=\"color: #169179;\"><strong>South African Electric Mobility Association</strong></span> is positioned to change that. For an industry at a critical juncture, the arrival of a dedicated representative body may prove to be one of the most consequential developments of 2026.</p>",
-            "image": "https://evnews.co.za/media/posts/48/South-African-Electric-Mobility-Association.jpg",
-            "author": {
-                "name": "Tristan Wiggill"
-            },
-            "tags": [
-                   "The Electric Mission",
-                   "South African Electric Mobility Association",
-                   "SAEMA",
-                   "Industry Bodies",
-                   "Hiten Parmar",
-                   "EE Business Intelligence"
-            ],
-            "date_published": "2026-05-26T12:54:41+02:00",
-            "date_modified": "2026-05-26T13:13:25+02:00"
         }
     ]
 }
