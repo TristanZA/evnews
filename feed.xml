@@ -3,12 +3,53 @@
     <title>EV NEWS</title>
     <link href="https://evnews.co.za/feed.xml" rel="self" />
     <link href="https://evnews.co.za" />
-    <updated>2026-06-05T18:45:34+02:00</updated>
+    <updated>2026-06-08T13:56:55+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
     <id>https://evnews.co.za</id>
 
+    <entry>
+        <title>Volvo Cars Sees Electrification Near Half of Global Sales</title>
+        <author>
+            <name>Tristan Wiggill</name>
+        </author>
+        <link href="https://evnews.co.za/volvo-cars-sees-electrification-near-half-of-global-sales/"/>
+        <id>https://evnews.co.za/volvo-cars-sees-electrification-near-half-of-global-sales/</id>
+        <media:content url="https://evnews.co.za/media/posts/61/Volvo-EX30.jpg" medium="image" />
+            <category term="Volvo Cars"/>
+            <category term="EX60"/>
+            <category term="EX40"/>
+            <category term="EX30"/>
+            <category term="EV Adoption"/>
+
+        <updated>2026-06-08T13:53:23+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://evnews.co.za/media/posts/61/Volvo-EX30.jpg" alt="Volvo EX30" />
+                    Volvo Cars sold 178,980 vehicles in the three months to May 2026, a 5.5% decline on the same period a year earlier, as the premium automotive segment continued to grapple with softening demand across major&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://evnews.co.za/media/posts/61/Volvo-EX30.jpg" class="type:primaryImage" alt="Volvo EX30" /></p>
+                <p class="first:mt-1.5! dropcap">Volvo Cars sold 178,980 vehicles in the three months to May 2026, a 5.5% decline on the same period a year earlier, as the premium automotive segment continued to grapple with softening demand across major markets.</p>
+<p>Within those figures, the Swedish carmaker's electrified models, comprising fully electric and <a href="https://evnews.co.za/plug-in-hybrid-electric-vehicle-phev/">plug-in hybrid vehicles</a>, accounted for 48% of all cars sold during the period, a milestone that underscores the accelerating shift in consumer preference toward zero and lower-emission vehicles.</p>
+<p class="first:mt-1.5!">Fully electric models represented 23% of total global sales, with plug-in hybrids contributing a further 25%. The EX30 and EX40 have been central to sustaining electric vehicle momentum in priority markets, and early customer orders for the forthcoming EX60 fully electric SUV have already exceeded internal expectations.</p>
+<p>Production of the model is expected to ramp up gradually in the second half of 2026, with Volvo anticipating the EX60 will add further weight to its electric vehicle credentials in key growth markets.</p>
+<p class="first:mt-1.5!">The rolling three-month figures also showed improvement on the preceding period covering February to April 2026, suggesting that the recent sales pressure may be beginning to ease.</p>
+<h4 class="first:mt-1.5!"><strong>South Africa's measured shift toward electric mobility</strong></h4>
+<p class="first:mt-1.5!">In South Africa, the transition toward electric mobility is taking shape at a more measured pace than in established new energy vehicle markets.</p>
+<p>Grant Locke, managing director of Volvo Car South Africa, says customer interest in electrified vehicles across South Africa and the broader African continent continues to grow as awareness increases and charging infrastructure develops.</p>
+<p class="first:mt-1.5!">"Globally, the strong performance of our fully electric models highlights the direction the industry is moving in," Locke said. "Locally, our focus remains on introducing the right products at the right time, while supporting customers through this transition and building long-term confidence in electric mobility."</p>
+<p class="first:mt-1.5!">Volvo Car South Africa views the transition as a long-term process, one that requires appropriate product planning alongside sustained investment in customer education and infrastructure readiness.</p>
+<p>The pipeline of fully electric models available locally, anchored by the EX30 and EX40 and supplemented by the anticipated EX60, signals the company's intention to remain an active participant in the South African <a href="https://evnews.co.za/tags/new-energy-vehicle/">new energy vehicle</a> market as it matures.</p>
+<p class="first:mt-1.5!">Globally, Volvo Cars is navigating a demanding trading environment. Sales in China remain under significant pressure, with industry volumes declining by double digits in consecutive months as a result of an intensely competitive landscape and a difficult macroeconomic backdrop.</p>
+<p>In the United States, a recovery is beginning to take shape, with deliveries improving gradually, though overall market sentiment remains subdued following the removal of government subsidies for electrified vehicles.</p>
+<p class="first:mt-1.5!">For an automotive brand that has staked its long-term strategy on electrification, the fact that nearly half of all cars sold globally are now electrified represents a meaningful measure of progress, even as the broader industry works through a period of considerable uncertainty.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>SA&#x27;s Courier Sector Drives EV Transition</title>
         <author>
@@ -430,50 +471,6 @@
 <p><span style="font-weight: 400;">Magadagela said the availability of electric commercial vehicle models had improved considerably in recent years, spanning panel vans, trucks and passenger transport, reducing a barrier that would have prevented fleet adoption only a few years ago. </span></p>
 <p><span style="font-weight: 400;">South Africa's advance in distributed solar generation had further reinforced the business case, with co-located solar and charging infrastructure now common across early adopter sites.</span></p>
 <p class="msg msg--highlight ">*Numerous questions were posed by attendees during the session. You can read those questions <span style="font-weight: 400;">— </span>with their respective answers <span style="font-weight: 400;">— </span><a href="https://evnews.co.za/evs-your-questions-answered/">on this page</a>.   </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>SA Moves to Bolster EV Component Manufacturing</title>
-        <author>
-            <name>Tristan Wiggill</name>
-        </author>
-        <link href="https://evnews.co.za/sa-moves-to-bolster-ev-component-manufacturing/"/>
-        <id>https://evnews.co.za/sa-moves-to-bolster-ev-component-manufacturing/</id>
-        <media:content url="https://evnews.co.za/media/posts/49/EV-Components.png" medium="image" />
-            <category term="Southern African Customs Union"/>
-            <category term="Renai Moothilal"/>
-            <category term="Parks Tau"/>
-            <category term="National Association of Automotive Component and Allied Manufacturers"/>
-            <category term="NAACAM"/>
-            <category term="Manufacturing"/>
-            <category term="DTIC"/>
-            <category term="Automotive Production and Development Programme"/>
-
-        <updated>2026-05-26T17:03:45+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://evnews.co.za/media/posts/49/EV-Components.png" alt="EV components" />
-                    Trade, industry and competition minister, Parks Tau, has published draft amendments to the Automotive Production and Development Programme (APDP) that would extend government incentives to a broader range of materials used in electric vehicle (EV)&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://evnews.co.za/media/posts/49/EV-Components.png" class="type:primaryImage" alt="EV components" /></p>
-                <p class="first:mt-1.5! dropcap">Trade, industry and competition minister, Parks Tau, has published draft amendments to the Automotive Production and Development Programme (APDP) that would extend government incentives to a broader range of materials used in electric vehicle (EV) manufacturing, with a particular focus on <a href="https://evnews.co.za/sas-automotive-future-hinges-on-local-battery-manufacturing/">battery production</a>.</p>
-<p class="first:mt-1.5!">The proposals, which are open for public comment, include increased production credits and customs rebates designed to encourage investment in high-value EV components on South African soil.</p>
-<p>The changes build on the <a href="https://evnews.co.za/EV-White-Paper 2023.pdf">EV white paper</a> published by the Department of Trade, Industry and Competition (DTIC) several years ago and represent the latest in a series of policy steps taken to develop a domestic new energy vehicle (NEV) ecosystem.</p>
-<p class="first:mt-1.5!">Renai Moothilal, CEO of the National Association of Automotive Component and Allied Manufacturers (<a href="https://naacam.org.za/" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow">NAACAM</a>), welcomed the proposals. "It's a step in the right direction. It's definitely a positive move and building on what was outlined a couple of years ago in the EV white paper published by DTIC," he said.</p>
-<h4 class="first:mt-1.5!"><strong>Regional dimension</strong></h4>
-<p class="first:mt-1.5!">Moothilal noted that the incentives would apply across the Southern African Customs Union (SACU), giving the proposals a regional dimension that could have broader industrial significance. "It's applicable across SACU and in some way could give some real impetus to what we talk about when we say regional industrialisation," he said.</p>
-<p class="first:mt-1.5!">The draft amendments follow two earlier policy interventions. An additional cash incentive for NEV components was introduced two years ago, and last year's budget included a 150% accelerated depreciation allowance for electric vehicles produced in South Africa.</p>
-<h4 class="first:mt-1.5!"><strong>The China question</strong></h4>
-<p class="first:mt-1.5!">South Africa's efforts to grow its EV manufacturing base come against the backdrop of China's formidable dominance of the <a href="https://evnews.co.za/global-ev-sales-surge-to-20-million-units/">global EV market</a>.</p>
-<p>Chinese manufacturers, backed by close to two decades of targeted industrial policy and <a href="https://evnews.co.za/why-chinese-evs-are-cheaper/">substantial state support</a>, account for more than 60% of EVs sold globally, as well as a commanding share of key component production including batteries.</p>
-<p class="first:mt-1.5!">Moothilal acknowledged the scale of the challenge but argued that South Africa's approach of using tax-based incentives and customs rebates, rather than direct subsidies, was appropriate given the country's fiscal constraints.</p>
-<p>He said the goal was to position South Africa and the wider region as investment destinations and technology partners for large Chinese and other international producers.</p>
-<p>"The <a href="https://evnews.co.za/why-sa-imports-battery-cells/">mineral advantages</a> that the region has does give some credence to bringing on board some of the large Chinese component producers," he said, adding that new entrants preparing to enter the South African market were already exploring ways to localise high-value components.</p>
-<p class="first:mt-1.5!">Moothila said more could always be done, but expressed satisfaction that policy was moving forward. "It is good to see some of this coming across the line."</p>
             ]]>
         </content>
     </entry>
